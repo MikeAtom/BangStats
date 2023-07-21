@@ -1,7 +1,8 @@
-version = "0.0.1beta"
+version = "0.0.2beta"
 
 logoPath = "data/images/logo.png"
 dbPath = "data/db/"
+imagesPath = "data/images/"
 langPath = "data/lang/"
 
 language = "en"
@@ -10,8 +11,10 @@ songsJson = dbPath + 'songs.json'
 sessionJson = dbPath + "session.json"
 tempDataFile = dbPath + "scanned_data.temp"
 tempErrorFile = dbPath + "scanned_errors.temp"
+tempImageFile = imagesPath + "_temp.png"
+tempImagePreview = imagesPath + "_preview.png"
 
-imagePreview = "data/images/preview.png"
+previewImage = imagesPath + "preview.png"
 
 icoKasumi = "data/icons/kasumi.ico"
 icoKanon = "data/icons/kanon.ico"

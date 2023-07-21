@@ -15,7 +15,7 @@ def enter_name():
         [sg.Text(lang.post__enter_name_listbox)],
         [sg.Input(size=(65, 1), enable_events=True, key='-INPUT-')],
         [sg.Listbox(allSongs, size=(65, 8), enable_events=True, key='-LIST-')],
-        [sg.Button(lang.global__apply, enable_events=True, key='Ok', size=(10, 1))]
+        [sg.Button(lang.global__button_apply, enable_events=True, key='Ok', size=(10, 1))]
     ]
 
     window = sg.Window('Bloody La Vie En Rose! ', layout, size=(480, 240), icon=defaults.icoMashiro)
@@ -155,7 +155,7 @@ def update_song_data(songData):
 def abort():
     global window, imagesErrors
 
-    window['-PREVIEW-'].update(filename=defaults.imagePreview)
+    window['-PREVIEW-'].update(filename=defaults.previewImage)
     window['-CUR_IMAGE-'].update('┐(￣ヘ￣;)┌')
 
     for key in ['-NAME-', '-SEARCH-',
@@ -344,7 +344,7 @@ def main(_imagesStored, _imagesScanned, _imagesErrors, imagesFolderPath):
         [sg.Text(lang.post__main_layout_title, font=("", 16)), sg.Push(), sg.Button(lang.global__button_back, key="-BACK-", size=(5, 1))],
         [sg.HSeparator()],
         [dataLayout],
-        [sg.Push(), sg.Image(filename=defaults.imagePreview, size=(640, 360), key="-PREVIEW-"), sg.Push()],
+        [sg.Push(), sg.Image(filename=defaults.previewImage, size=(640, 360), key="-PREVIEW-"), sg.Push()],
         [sg.Push(), sg.Text("┐(￣ヘ￣;)┌", key='-CUR_IMAGE-'), sg.Push()],
         [sg.HSeparator()],
         [col1, col2]
@@ -369,7 +369,7 @@ def main(_imagesStored, _imagesScanned, _imagesErrors, imagesFolderPath):
             check_inconsistencies()
 
         elif event == '-START-':
-            window['-START-'].update("In progress", disabled=True)
+            window['-START-'].update(lang.scan__button_in_progress[:3], disabled=True)
             window['-FIX_ERRORS-'].update(disabled=True)
             window['-FIX_UNKNOWN-'].update(disabled=True)
             window['-FIX_NOTES-'].update(disabled=True)

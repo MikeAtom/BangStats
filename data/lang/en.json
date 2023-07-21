@@ -1,6 +1,6 @@
 {
     "global__button_back": "Back",
-    "global__apply": "Apply",
+    "global__button_apply": "Apply",
     "main_load_data__welcome": "Welcome to BanG Stats!",
     "main_load_data__first": "First, locate screenshots folder:",
     "main_load_data__then": "Then, if it's your first time using this program, create \na new data or load existing one:",
@@ -61,7 +61,7 @@
     "scan__error_window_text" : "An error occurred while scanning the image:\n",
     "scan__complete_window_title" : "Scan completed! Now you can close the window and proceed to the next step.",
     
-    "post__enter_name_listbox": "Listbox with search",
+    "post__enter_name_listbox": "Enter song name:",
     "post__enter_song_data_deleted_message": "Deleted, proceed to the next image by pressing the 'Next' button.",
     "post__enter_song_data_saved_message": "Saved, proceed to the next image by pressing the 'Next' button.",
     "post__enter_song_data_invalid_message": "Invalid data. Please make sure that all fields are filled correctly.",

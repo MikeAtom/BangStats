@@ -11,6 +11,7 @@ def set_language(lang):
         langData = json.load(f)
 
     global__button_back = langData["global__button_back"]
+    global__button_apply = langData["global__button_apply"]
 
     main_load_data__welcome = langData["main_load_data__welcome"]
     main_load_data__first = langData["main_load_data__first"]

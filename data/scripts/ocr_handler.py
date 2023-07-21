@@ -6,14 +6,13 @@
 import cv2
 import easyocr
 import shutil
+import data._defaults as defaults
 
 debug = 0
 
-tempFolder = "data/images/_temp.png"
-
 
 def show_cropped_image(top_left, bottom_right):
-    image = cv2.imread(tempFolder)
+    image = cv2.imread(defaults.tempImageFile)
     cv2.imshow('crop', image[top_left[1]:bottom_right[1], top_left[0]:bottom_right[0]])
     cv2.waitKey(0)
 
@@ -54,10 +53,10 @@ def ocr(imagePath, onGPU):
     print("Reading text from image: " + imagePath)
     
     # Copy image to temp folder
-    shutil.copyfile(imagePath, tempFolder)
+    shutil.copyfile(imagePath, defaults.tempImageFile)
     
     # Read image
-    image = cv2.imread(tempFolder)
+    image = cv2.imread(defaults.tempImageFile)
 
     # resize image to 720 height
     height, width = image.shape[:2]

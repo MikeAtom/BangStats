@@ -1,6 +1,6 @@
 {
     "global__button_back": "Назад",
-    "global__apply": "Застосувати",
+    "global__button_apply": "Застосувати",
     "main_load_data__welcome": "Ласкаво просимо до BanG Stats!",
     "main_load_data__first": "Спочатку вкажіть папку зі скріншотами:",
     "main_load_data__then": "Потім, якщо це перший раз, створіть нові\nдані або завантажте існуючі:",
@@ -61,7 +61,7 @@
     "scan__error_window_text": "Під час сканування зображення сталася помилка:\n",
     "scan__complete_window_title": "Сканування завершено! Тепер ви можете закрити вікно і перейти до наступного кроку.",
 
-    "post__enter_name_listbox": "Список із пошуком",
+    "post__enter_name_listbox": "Увведіть назву пісні:",
     "post__enter_song_data_deleted_message": "Видалено, перейдіть до наступного зображення, натиснувши кнопку \"Далі\".",
     "post__enter_song_data_saved_message": "Збережено, перейдіть до наступного зображення, натиснувши кнопку \"Далі\".",
     "post__enter_song_data_invalid_message": "Недійсні дані. Будь ласка, переконайтеся, що всі поля заповнені правильно.",
