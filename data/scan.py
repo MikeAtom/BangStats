@@ -11,22 +11,21 @@ from data.scripts.score_extractor import scan_score
 
 
 def create_preview(imagePath, targetHeight):
-    previewPath = "data/images/_temp/preview.png"
 
     # copy image to temp folder
-    shutil.copy(imagePath, previewPath)
+    shutil.copy(imagePath, defaults.imagePreview)
 
 
     # Read image
-    image = cv2.imread(previewPath)
+    image = cv2.imread(defaults.imagePreview)
     # Resize image height
     height, width, channels = image.shape
     ratio = targetHeight / height
     image = cv2.resize(image, (int(width * ratio), targetHeight))
     # Save preview
-    cv2.imwrite(previewPath, image)
+    cv2.imwrite(defaults.imagePreview, image)
 
-    return previewPath
+    return defaults.imagePreview
 
 
 def main(imagesFolderPath, imageList):

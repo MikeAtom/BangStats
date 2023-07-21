@@ -8,7 +8,8 @@ def load_data():
     layout = [
         [sg.Push(), sg.Text(lang.main_load_data__welcome, font=("", 15)), sg.Push()],
         [sg.Text(lang.main_load_data__first), sg.Push()],
-        [sg.InputText('', size=35, key='-SCREEN_FOLDER-', justification='left', enable_events=True), sg.FolderBrowse()],
+        [sg.InputText('', size=35, key='-SCREEN_FOLDER-', justification='left', enable_events=True),
+         sg.FolderBrowse(button_text=lang.main__browse_button)],
         [sg.Text(lang.main_load_data__then)],
         [sg.Push(),
          sg.InputText('', visible=False, key='-DATA_PATH-', justification='left', enable_events=True),
@@ -20,7 +21,7 @@ def load_data():
         [sg.Push(), sg.Text("", key="-STATUS-"), sg.Push()],
     ]
 
-    window = sg.Window('BanG Stats!', layout)
+    window = sg.Window('BanG Stats!', layout, icon=defaults.icoKasumi)
 
     while True:
         event, values = window.read()
@@ -93,6 +94,8 @@ if os.path.isfile(defaults.sessionJson):
     imagesFolderPath = session["imagesFolderPath"]
     currentLanguage = session["language"]
 
+    lang.set_language(currentLanguage)
+
 else:
     # Check if user language is supported, if not, set default language
     if userLanguage in lang.langList:
@@ -100,9 +103,11 @@ else:
     else:
         currentLanguage = defaults.language
 
+    lang.set_language(currentLanguage)
+
     dataJson, imagesFolderPath = load_data()
 
-lang.set_language(currentLanguage)
+
 
 # Close program if user language is russian
 if userLanguage == "ru":
