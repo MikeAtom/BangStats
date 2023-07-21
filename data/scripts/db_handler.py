@@ -9,6 +9,9 @@ songsData = dict()
 storedData = dict()
 dataPath = ""
 
+# Check if backup folder exists, if not, create it
+if not os.path.exists(defaults.dbPath + 'backup'):
+    os.makedirs(defaults.dbPath + 'backup')
 
 # Initialize songs database and get information about songs and stored images
 # Returns amount of songs and stored images
