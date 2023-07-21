@@ -89,7 +89,7 @@ def main(imagesFolderPath, imageList):
         [sg.HSeparator()],
         [sg.Text(lang.scan__layout_image_folder + " " + imagesFolderPath)],
         # [sg.HSeparator()],
-        [sg.Push(), sg.Image(filename=defaults.imagePreview, size=(640, 360), key="-PREVIEW-"), sg.Push()],
+        [sg.Push(), sg.Image(filename=defaults.previewImage, size=(640, 360), key="-PREVIEW-"), sg.Push()],
         [sg.Push(), sg.Text("┐(￣ヘ￣;)┌", key='-CUR_IMAGE-'), sg.Push()],
         [sg.HSeparator()],
         [sg.Push(), sg.ProgressBar(40, size=(45, 20), key='-PROGRESS-'), sg.Push()],
