@@ -43,14 +43,18 @@ def data_init(_dataPath):
 def get_time_date(imageName):
     # Replace '-' with '_' in image name to make all screenshots the same
     # some old android versions use '-' instead of '_' in screenshot names
-    imageName = imageName.replace('-', '_')
-
     # Screenshot_20230715_190827_BanG Dream!.png
 
-    imageName = imageName.split('_')[1] + '_' + imageName.split('_')[2]
-
-    # Convert to unix timestamp
-    fileTime = time.mktime(time.strptime(imageName, "%Y%m%d_%H%M%S"))
+    # Try extracting time from image name
+    try:
+        imageName = imageName.replace('-', '_')
+        imageName = imageName.split('_')[1] + '_' + imageName.split('_')[2]
+        # Convert to unix timestamp
+        fileTime = time.mktime(time.strptime(imageName, "%Y%m%d_%H%M%S"))
+    # If it fails, get time from file creation time
+    except:
+        # Get file creation time
+        fileTime = os.path.getctime(defaults.imagesPath + imageName)
 
     return round(fileTime)
 
