@@ -37,6 +37,25 @@
         "bpm": 185.0,
         "time": 120000
     },
+    "HOT LIMIT": {
+        "artist": "Poppin'Party",
+        "levels": {
+            "easy": 5,
+            "normal": 12,
+            "hard": 22,
+            "expert": 25,
+            "special": 0
+        },
+        "noteCount": {
+            "easy": 76,
+            "normal": 205,
+            "hard": 641,
+            "expert": 853,
+            "special": 0
+        },
+        "bpm": 138.0,
+        "time": 125300
+    },
     "Five Letters": {
         "artist": "Poppin'Party",
         "levels": {
@@ -57,7 +76,7 @@
         "time": 108800
     },
     "Secret Base": {
-        "artist": "Pastel*Palettes",
+        "artist": "Pastel＊Palettes",
         "levels": {
             "easy": 5,
             "normal": 12,
@@ -171,7 +190,7 @@
         "time": 152100
     },
     "Luminous Once More": {
-        "artist": "Pastel*Palettes",
+        "artist": "Pastel＊Palettes",
         "levels": {
             "easy": 6,
             "normal": 12,
@@ -246,6 +265,25 @@
         "bpm": 85.0,
         "time": 135600
     },
+    "KAIBUTSU": {
+        "artist": "Poppin'Party",
+        "levels": {
+            "easy": 6,
+            "normal": 13,
+            "hard": 21,
+            "expert": 26,
+            "special": 0
+        },
+        "noteCount": {
+            "easy": 114,
+            "normal": 208,
+            "hard": 524,
+            "expert": 847,
+            "special": 0
+        },
+        "bpm": 170.0,
+        "time": 121500
+    },
     "Kimi no kioku": {
         "artist": "Roselia",
         "levels": {
@@ -265,24 +303,24 @@
         "bpm": 114.0,
         "time": 130300
     },
-    "KAIBUTSU": {
-        "artist": "Poppin'Party",
+    "Chocolate Bass Recipe": {
+        "artist": "Rimi Ushigome",
         "levels": {
             "easy": 6,
             "normal": 13,
-            "hard": 21,
-            "expert": 26,
+            "hard": 19,
+            "expert": 25,
             "special": 0
         },
         "noteCount": {
             "easy": 114,
-            "normal": 208,
-            "hard": 524,
-            "expert": 847,
+            "normal": 239,
+            "hard": 505,
+            "expert": 670,
             "special": 0
         },
-        "bpm": 170.0,
-        "time": 121500
+        "bpm": 96.0,
+        "time": 120100
     },
     "Scarlet Sky": {
         "artist": "Afterglow",
@@ -303,24 +341,24 @@
         "bpm": 180.0,
         "time": 108700
     },
-    "Chocolate Bass Recipe": {
-        "artist": "Rimi Ushigome",
+    "Ongaeshi no Serenade": {
+        "artist": "Morfonica",
         "levels": {
             "easy": 6,
-            "normal": 13,
-            "hard": 19,
-            "expert": 25,
+            "normal": 11,
+            "hard": 18,
+            "expert": 24,
             "special": 0
         },
         "noteCount": {
-            "easy": 114,
-            "normal": 239,
-            "hard": 505,
-            "expert": 670,
+            "easy": 102,
+            "normal": 177,
+            "hard": 348,
+            "expert": 548,
             "special": 0
         },
-        "bpm": 96.0,
-        "time": 120100
+        "bpm": 185.0,
+        "time": 120400
     },
     "Swear ~Night & Day~": {
         "artist": "Roselia",
@@ -359,6 +397,25 @@
         },
         "bpm": 134.0,
         "time": 101300
+    },
+    "Villain": {
+        "artist": "Afterglow",
+        "levels": {
+            "easy": 6,
+            "normal": 13,
+            "hard": 19,
+            "expert": 25,
+            "special": 0
+        },
+        "noteCount": {
+            "easy": 103,
+            "normal": 248,
+            "hard": 414,
+            "expert": 665,
+            "special": 0
+        },
+        "bpm": 102.0,
+        "time": 113000
     },
     "Star Night Snow": {
         "artist": "Poppin'Party",
@@ -437,7 +494,7 @@
         "time": 135100
     },
     "Kanade": {
-        "artist": "Pastel*Palettes",
+        "artist": "Pastel＊Palettes",
         "levels": {
             "easy": 6,
             "normal": 12,
@@ -456,7 +513,7 @@
         "time": 121700
     },
     "Sobakasu": {
-        "artist": "Pastel*Palettes",
+        "artist": "Pastel＊Palettes",
         "levels": {
             "easy": 6,
             "normal": 12,
@@ -645,8 +702,27 @@
         "bpm": 124.0,
         "time": 111400
     },
+    "D-tecnoLife": {
+        "artist": "RAISE A SUILEN",
+        "levels": {
+            "easy": 6,
+            "normal": 13,
+            "hard": 21,
+            "expert": 26,
+            "special": 0
+        },
+        "noteCount": {
+            "easy": 97,
+            "normal": 225,
+            "hard": 458,
+            "expert": 706,
+            "special": 0
+        },
+        "bpm": 168.0,
+        "time": 107900
+    },
     "Shuwarin☆Dreaming": {
-        "artist": "Pastel*Palettes",
+        "artist": "Pastel＊Palettes",
         "levels": {
             "easy": 6,
             "normal": 12,
@@ -722,7 +798,7 @@
         "time": 100900
     },
     "Dream Parade": {
-        "artist": "Pastel*Palettes",
+        "artist": "Pastel＊Palettes",
         "levels": {
             "easy": 6,
             "normal": 13,
@@ -759,7 +835,26 @@
         "bpm": 175.0,
         "time": 94700
     },
-    "MAYOIUTA": {
+    "Ai no Shirushi": {
+        "artist": "Hello, Happy World!",
+        "levels": {
+            "easy": 6,
+            "normal": 11,
+            "hard": 18,
+            "expert": 22,
+            "special": 0
+        },
+        "noteCount": {
+            "easy": 92,
+            "normal": 138,
+            "hard": 280,
+            "expert": 400,
+            "special": 0
+        },
+        "bpm": 130.0,
+        "time": 99800
+    },
+    "Mayoiuta": {
         "artist": "MyGO!!!!!",
         "levels": {
             "easy": 6,
@@ -779,7 +874,7 @@
         "time": 98000
     },
     "Happy Synthesizer": {
-        "artist": "Pastel*Palettes",
+        "artist": "Pastel＊Palettes",
         "levels": {
             "easy": 7,
             "normal": 12,
@@ -798,7 +893,7 @@
         "time": 141800
     },
     "Hitorigoto": {
-        "artist": "Pastel*Palettes × ClariS",
+        "artist": "Pastel＊Palettes × ClariS",
         "levels": {
             "easy": 7,
             "normal": 13,
@@ -931,7 +1026,7 @@
         "time": 132400
     },
     "Gotoubun no Kimochi": {
-        "artist": "Pastel*Palettes×有咲×つぐみ×ましろ",
+        "artist": "Pastel＊Palettes×有咲×つぐみ×ましろ",
         "levels": {
             "easy": 7,
             "normal": 13,
@@ -1007,7 +1102,7 @@
         "time": 107200
     },
     "Moonlight Densetsu": {
-        "artist": "Pastel*Palettes × Kokoro × Mashiro",
+        "artist": "Pastel＊Palettes × Kokoro × Mashiro",
         "levels": {
             "easy": 7,
             "normal": 13,
@@ -1043,6 +1138,25 @@
         },
         "bpm": 175.0,
         "time": 133100
+    },
+    "Gokusaishiki": {
+        "artist": "Afterglow",
+        "levels": {
+            "easy": 7,
+            "normal": 12,
+            "hard": 21,
+            "expert": 26,
+            "special": 0
+        },
+        "noteCount": {
+            "easy": 126,
+            "normal": 213,
+            "hard": 537,
+            "expert": 876,
+            "special": 0
+        },
+        "bpm": 185.0,
+        "time": 122700
     },
     "Poppin' Shuffle": {
         "artist": "Poppin'Party",
@@ -1120,25 +1234,6 @@
         "bpm": 161.0,
         "time": 127500
     },
-    "Star Beat!": {
-        "artist": "Poppin'Party",
-        "levels": {
-            "easy": 7,
-            "normal": 14,
-            "hard": 20,
-            "expert": 25,
-            "special": 26
-        },
-        "noteCount": {
-            "easy": 106,
-            "normal": 203,
-            "hard": 437,
-            "expert": 642,
-            "special": 854
-        },
-        "bpm": 195.0,
-        "time": 132800
-    },
     "Sunflower Dreams": {
         "artist": "Poppin'Party",
         "levels": {
@@ -1158,24 +1253,24 @@
         "bpm": 164.0,
         "time": 128900
     },
-    "Seikai wa Hitotsu! Ja Nai!!": {
-        "artist": "Poppin'Party x Glitter*Green",
+    "Star Beat!": {
+        "artist": "Poppin'Party",
         "levels": {
             "easy": 7,
-            "normal": 13,
+            "normal": 14,
             "hard": 20,
             "expert": 25,
-            "special": 0
+            "special": 26
         },
         "noteCount": {
-            "easy": 86,
-            "normal": 222,
-            "hard": 438,
-            "expert": 637,
-            "special": 0
+            "easy": 106,
+            "normal": 203,
+            "hard": 437,
+            "expert": 642,
+            "special": 854
         },
-        "bpm": 170.0,
-        "time": 107100
+        "bpm": 195.0,
+        "time": 132800
     },
     "Sasanqua": {
         "artist": "Afterglow",
@@ -1196,24 +1291,43 @@
         "bpm": 198.0,
         "time": 103100
     },
-    "S'il Vous President": {
-        "artist": "ハロー、ハッピーワールド！×P丸様。",
+    "Seikai wa Hitotsu! Ja Nai!!": {
+        "artist": "Poppin'Party x Glitter*Green",
         "levels": {
             "easy": 7,
-            "normal": 14,
-            "hard": 21,
+            "normal": 13,
+            "hard": 20,
             "expert": 25,
             "special": 0
         },
         "noteCount": {
-            "easy": 123,
-            "normal": 293,
-            "hard": 540,
-            "expert": 695,
+            "easy": 86,
+            "normal": 222,
+            "hard": 438,
+            "expert": 637,
             "special": 0
         },
-        "bpm": 176.0,
-        "time": 121400
+        "bpm": 170.0,
+        "time": 107100
+    },
+    "Dancehall": {
+        "artist": "Hello, Happy World!",
+        "levels": {
+            "easy": 7,
+            "normal": 13,
+            "hard": 19,
+            "expert": 25,
+            "special": 0
+        },
+        "noteCount": {
+            "easy": 114,
+            "normal": 264,
+            "hard": 480,
+            "expert": 726,
+            "special": 0
+        },
+        "bpm": 110.0,
+        "time": 133200
     },
     "New Genesis": {
         "artist": "Roselia",
@@ -1233,6 +1347,25 @@
         },
         "bpm": 175.0,
         "time": 140500
+    },
+    "Sʼil Vous President [Extra]": {
+        "artist": "Hello, Happy World! × Pmaru-sama",
+        "levels": {
+            "easy": 7,
+            "normal": 14,
+            "hard": 21,
+            "expert": 25,
+            "special": 0
+        },
+        "noteCount": {
+            "easy": 123,
+            "normal": 293,
+            "hard": 540,
+            "expert": 695,
+            "special": 0
+        },
+        "bpm": 176.0,
+        "time": 121400
     },
     "V.I.P": {
         "artist": "Morfonica",
@@ -1310,6 +1443,44 @@
         "bpm": 135.0,
         "time": 106800
     },
+    "everyday flower": {
+        "artist": "Pastel＊Palettes",
+        "levels": {
+            "easy": 7,
+            "normal": 12,
+            "hard": 19,
+            "expert": 25,
+            "special": 0
+        },
+        "noteCount": {
+            "easy": 123,
+            "normal": 220,
+            "hard": 437,
+            "expert": 629,
+            "special": 0
+        },
+        "bpm": 136.0,
+        "time": 118400
+    },
+    "Melody": {
+        "artist": "MyGO!!!!!",
+        "levels": {
+            "easy": 7,
+            "normal": 14,
+            "hard": 21,
+            "expert": 26,
+            "special": 0
+        },
+        "noteCount": {
+            "easy": 145,
+            "normal": 325,
+            "hard": 663,
+            "expert": 966,
+            "special": 0
+        },
+        "bpm": 260.0,
+        "time": 141300
+    },
     "Cherry Bomb": {
         "artist": "Poppin'Party",
         "levels": {
@@ -1330,7 +1501,7 @@
         "time": 106200
     },
     "Kimagure Romantic": {
-        "artist": "Pastel*Palettes",
+        "artist": "Pastel＊Palettes",
         "levels": {
             "easy": 7,
             "normal": 12,
@@ -1348,24 +1519,24 @@
         "bpm": 170.0,
         "time": 111600
     },
-    "Tentai Kansoku": {
-        "artist": "Afterglow × Kasumi",
+    "QUEEN": {
+        "artist": "Morfonica",
         "levels": {
             "easy": 7,
-            "normal": 14,
-            "hard": 19,
+            "normal": 13,
+            "hard": 21,
             "expert": 26,
-            "special": 25
+            "special": 0
         },
         "noteCount": {
-            "easy": 70,
-            "normal": 176,
-            "hard": 483,
-            "expert": 751,
-            "special": 664
+            "easy": 129,
+            "normal": 278,
+            "hard": 552,
+            "expert": 992,
+            "special": 0
         },
-        "bpm": 165.0,
-        "time": 111900
+        "bpm": 170.0,
+        "time": 127200
     },
     "Shoujo Rei": {
         "artist": "Poppin'Party×ましろ",
@@ -1385,6 +1556,25 @@
         },
         "bpm": 150.0,
         "time": 128900
+    },
+    "Tentai Kansoku": {
+        "artist": "Afterglow × Kasumi",
+        "levels": {
+            "easy": 7,
+            "normal": 14,
+            "hard": 19,
+            "expert": 26,
+            "special": 25
+        },
+        "noteCount": {
+            "easy": 70,
+            "normal": 176,
+            "hard": 483,
+            "expert": 751,
+            "special": 664
+        },
+        "bpm": 165.0,
+        "time": 111900
     },
     "Returns": {
         "artist": "Poppin'Party",
@@ -1425,7 +1615,7 @@
         "time": 110500
     },
     "Luminous Once More (Collab ver.)": {
-        "artist": "ClariS × Aya Maruyama from Pastel*Palettes",
+        "artist": "ClariS × Aya Maruyama from Pastel＊Palettes",
         "levels": {
             "easy": 7,
             "normal": 14,
@@ -1463,7 +1653,7 @@
         "time": 111500
     },
     "Haru Wo Tsugeru": {
-        "artist": "Pastel*Palettes",
+        "artist": "Pastel＊Palettes",
         "levels": {
             "easy": 7,
             "normal": 13,
@@ -1520,7 +1710,7 @@
         "time": 113300
     },
     "Reincarnation Apple": {
-        "artist": "Roselia×＋α／あるふぁきゅん。",
+        "artist": "Roselia × Alfakyun.",
         "levels": {
             "easy": 7,
             "normal": 15,
@@ -1537,6 +1727,25 @@
         },
         "bpm": 145.0,
         "time": 115900
+    },
+    "Five Smile ◯ All In!": {
+        "artist": "Hello, Happy World!",
+        "levels": {
+            "easy": 7,
+            "normal": 12,
+            "hard": 20,
+            "expert": 27,
+            "special": 0
+        },
+        "noteCount": {
+            "easy": 135,
+            "normal": 230,
+            "hard": 498,
+            "expert": 999,
+            "special": 0
+        },
+        "bpm": 126.0,
+        "time": 124800
     },
     "Determination Symphony": {
         "artist": "Roselia",
@@ -1577,7 +1786,7 @@
         "time": 119300
     },
     "Sekaiwa Koini Ochiteiru": {
-        "artist": "Pastel*Palettes",
+        "artist": "Pastel＊Palettes",
         "levels": {
             "easy": 7,
             "normal": 14,
@@ -1652,25 +1861,6 @@
         "bpm": 125.0,
         "time": 117300
     },
-    "A Distant Heartbeat": {
-        "artist": "Saya Yamabuki",
-        "levels": {
-            "easy": 7,
-            "normal": 13,
-            "hard": 20,
-            "expert": 25,
-            "special": 0
-        },
-        "noteCount": {
-            "easy": 116,
-            "normal": 272,
-            "hard": 507,
-            "expert": 687,
-            "special": 0
-        },
-        "bpm": 168.0,
-        "time": 112200
-    },
     "Romeo＆Cinderella": {
         "artist": "Poppin'Party",
         "levels": {
@@ -1689,6 +1879,25 @@
         },
         "bpm": 170.0,
         "time": 113700
+    },
+    "A Distant Heartbeat": {
+        "artist": "Saya Yamabuki",
+        "levels": {
+            "easy": 7,
+            "normal": 13,
+            "hard": 20,
+            "expert": 25,
+            "special": 0
+        },
+        "noteCount": {
+            "easy": 116,
+            "normal": 272,
+            "hard": 507,
+            "expert": 687,
+            "special": 0
+        },
+        "bpm": 168.0,
+        "time": 112200
     },
     "Alchemy": {
         "artist": "Poppin'Party",
@@ -1709,8 +1918,46 @@
         "bpm": 165.0,
         "time": 119300
     },
+    "Saudade": {
+        "artist": "Afterglow",
+        "levels": {
+            "easy": 7,
+            "normal": 13,
+            "hard": 20,
+            "expert": 26,
+            "special": 0
+        },
+        "noteCount": {
+            "easy": 138,
+            "normal": 239,
+            "hard": 481,
+            "expert": 786,
+            "special": 0
+        },
+        "bpm": 120.0,
+        "time": 121100
+    },
+    "Get Wild": {
+        "artist": "RAISE A SUILEN",
+        "levels": {
+            "easy": 7,
+            "normal": 12,
+            "hard": 20,
+            "expert": 25,
+            "special": 0
+        },
+        "noteCount": {
+            "easy": 138,
+            "normal": 222,
+            "hard": 488,
+            "expert": 692,
+            "special": 0
+        },
+        "bpm": 134.0,
+        "time": 125400
+    },
     "Kizunairo no Ensemble": {
-        "artist": "Poppin'Party × Pastel*Palettes × Morfonica",
+        "artist": "Poppin'Party × Pastel＊Palettes × Morfonica",
         "levels": {
             "easy": 7,
             "normal": 14,
@@ -1728,43 +1975,24 @@
         "bpm": 189.0,
         "time": 123700
     },
-    "Secret Dawn": {
-        "artist": "Morfonica",
-        "levels": {
-            "easy": 7,
-            "normal": 13,
-            "hard": 20,
-            "expert": 25,
-            "special": 0
-        },
-        "noteCount": {
-            "easy": 100,
-            "normal": 195,
-            "hard": 424,
-            "expert": 597,
-            "special": 0
-        },
-        "bpm": 131.0,
-        "time": 113200
-    },
-    "Nocturnal Kids": {
+    "Tokyo Shandy Rendez-vous": {
         "artist": "Poppin'Party",
         "levels": {
             "easy": 7,
-            "normal": 12,
-            "hard": 20,
-            "expert": 25,
+            "normal": 13,
+            "hard": 22,
+            "expert": 26,
             "special": 0
         },
         "noteCount": {
-            "easy": 120,
-            "normal": 214,
-            "hard": 450,
-            "expert": 662,
+            "easy": 132,
+            "normal": 224,
+            "hard": 526,
+            "expert": 799,
             "special": 0
         },
-        "bpm": 132.0,
-        "time": 105500
+        "bpm": 137.0,
+        "time": 112200
     },
     "Photograph": {
         "artist": "Poppin'Party",
@@ -1785,6 +2013,25 @@
         "bpm": 150.0,
         "time": 118500
     },
+    "Nocturnal Kids": {
+        "artist": "Poppin'Party",
+        "levels": {
+            "easy": 7,
+            "normal": 12,
+            "hard": 20,
+            "expert": 25,
+            "special": 0
+        },
+        "noteCount": {
+            "easy": 120,
+            "normal": 214,
+            "hard": 450,
+            "expert": 662,
+            "special": 0
+        },
+        "bpm": 132.0,
+        "time": 105500
+    },
     "Realize": {
         "artist": "Roselia",
         "levels": {
@@ -1803,6 +2050,25 @@
         },
         "bpm": 206.0,
         "time": 126500
+    },
+    "Secret Dawn": {
+        "artist": "Morfonica",
+        "levels": {
+            "easy": 7,
+            "normal": 13,
+            "hard": 20,
+            "expert": 25,
+            "special": 0
+        },
+        "noteCount": {
+            "easy": 100,
+            "normal": 195,
+            "hard": 424,
+            "expert": 597,
+            "special": 0
+        },
+        "bpm": 131.0,
+        "time": 113200
     },
     "One step at a time": {
         "artist": "Morfonica",
@@ -1824,7 +2090,7 @@
         "time": 111800
     },
     "Mechanical Clown": {
-        "artist": "Pastel*Palettes",
+        "artist": "Pastel＊Palettes",
         "levels": {
             "easy": 7,
             "normal": 13,
@@ -1919,7 +2185,7 @@
         "time": 102600
     },
     "Dream Gradient": {
-        "artist": "Pastel*Palettes",
+        "artist": "Pastel＊Palettes",
         "levels": {
             "easy": 7,
             "normal": 13,
@@ -1976,7 +2242,7 @@
         "time": 104100
     },
     "Winking☆Cheer": {
-        "artist": "Pastel*Palettes",
+        "artist": "Pastel＊Palettes",
         "levels": {
             "easy": 7,
             "normal": 13,
@@ -2012,6 +2278,25 @@
         },
         "bpm": 171.0,
         "time": 116600
+    },
+    "Utakotoba": {
+        "artist": "MyGO!!!!!",
+        "levels": {
+            "easy": 7,
+            "normal": 14,
+            "hard": 20,
+            "expert": 26,
+            "special": 0
+        },
+        "noteCount": {
+            "easy": 138,
+            "normal": 283,
+            "hard": 507,
+            "expert": 829,
+            "special": 0
+        },
+        "bpm": 190.0,
+        "time": 125200
     },
     "SAKURA MEMORIES": {
         "artist": "Poppin'Party",
@@ -2070,25 +2355,6 @@
         "bpm": 135.0,
         "time": 107600
     },
-    "1/3 NO JUNJOUNA KANJOU": {
-        "artist": "RAISE A SUILEN",
-        "levels": {
-            "easy": 7,
-            "normal": 13,
-            "hard": 20,
-            "expert": 25,
-            "special": 24
-        },
-        "noteCount": {
-            "easy": 113,
-            "normal": 189,
-            "hard": 421,
-            "expert": 614,
-            "special": 470
-        },
-        "bpm": 152.0,
-        "time": 101900
-    },
     "Moonlight Waymark": {
         "artist": "Roselia",
         "levels": {
@@ -2107,6 +2373,25 @@
         },
         "bpm": 133.0,
         "time": 112500
+    },
+    "1/3 NO JUNJOUNA KANJOU": {
+        "artist": "RAISE A SUILEN",
+        "levels": {
+            "easy": 7,
+            "normal": 13,
+            "hard": 20,
+            "expert": 25,
+            "special": 24
+        },
+        "noteCount": {
+            "easy": 113,
+            "normal": 189,
+            "hard": 421,
+            "expert": 614,
+            "special": 470
+        },
+        "bpm": 152.0,
+        "time": 101900
     },
     "READY STEADY GO": {
         "artist": "Afterglow",
@@ -2146,8 +2431,27 @@
         "bpm": 140.0,
         "time": 120900
     },
+    "Ever Sky Blue": {
+        "artist": "Morfonica",
+        "levels": {
+            "easy": 7,
+            "normal": 12,
+            "hard": 21,
+            "expert": 26,
+            "special": 0
+        },
+        "noteCount": {
+            "easy": 107,
+            "normal": 201,
+            "hard": 487,
+            "expert": 751,
+            "special": 0
+        },
+        "bpm": 195.0,
+        "time": 109000
+    },
     "Brand new Pastel Road!": {
-        "artist": "Pastel*Palettes",
+        "artist": "Pastel＊Palettes",
         "levels": {
             "easy": 7,
             "normal": 13,
@@ -2184,6 +2488,25 @@
         "bpm": 172.0,
         "time": 122200
     },
+    "I found a smile~!": {
+        "artist": "Hello, Happy World!",
+        "levels": {
+            "easy": 7,
+            "normal": 12,
+            "hard": 18,
+            "expert": 24,
+            "special": 0
+        },
+        "noteCount": {
+            "easy": 138,
+            "normal": 235,
+            "hard": 343,
+            "expert": 539,
+            "special": 0
+        },
+        "bpm": 143.0,
+        "time": 110000
+    },
     "Happiness! Happy Magical♪": {
         "artist": "Hello, Happy World!",
         "levels": {
@@ -2204,7 +2527,7 @@
         "time": 101100
     },
     "Hana Hibana": {
-        "artist": "Pastel*Palettes",
+        "artist": "Pastel＊Palettes",
         "levels": {
             "easy": 7,
             "normal": 12,
@@ -2240,25 +2563,6 @@
         },
         "bpm": 145.0,
         "time": 113400
-    },
-    "I found a smile~!": {
-        "artist": "Hello, Happy World!",
-        "levels": {
-            "easy": 7,
-            "normal": 12,
-            "hard": 18,
-            "expert": 24,
-            "special": 0
-        },
-        "noteCount": {
-            "easy": 138,
-            "normal": 235,
-            "hard": 343,
-            "expert": 539,
-            "special": 0
-        },
-        "bpm": 143.0,
-        "time": 110000
     },
     "CORUSCATE -DNA-": {
         "artist": "RAISE A SUILEN",
@@ -2393,6 +2697,25 @@
         "bpm": 143.0,
         "time": 119200
     },
+    "Setsunai Sandglass": {
+        "artist": "Poppin'Party",
+        "levels": {
+            "easy": 7,
+            "normal": 13,
+            "hard": 19,
+            "expert": 25,
+            "special": 0
+        },
+        "noteCount": {
+            "easy": 120,
+            "normal": 216,
+            "hard": 359,
+            "expert": 606,
+            "special": 0
+        },
+        "bpm": 183.0,
+        "time": 110900
+    },
     "COLORS": {
         "artist": "Afterglow × FLOW",
         "levels": {
@@ -2412,24 +2735,24 @@
         "bpm": 136.0,
         "time": 112100
     },
-    "Setsunai Sandglass": {
-        "artist": "Poppin'Party",
+    "CORE PRIDE": {
+        "artist": "RAISE A SUILEN",
         "levels": {
             "easy": 7,
-            "normal": 13,
-            "hard": 19,
-            "expert": 25,
+            "normal": 14,
+            "hard": 21,
+            "expert": 26,
             "special": 0
         },
         "noteCount": {
-            "easy": 120,
-            "normal": 216,
-            "hard": 359,
-            "expert": 606,
+            "easy": 148,
+            "normal": 281,
+            "hard": 531,
+            "expert": 788,
             "special": 0
         },
-        "bpm": 183.0,
-        "time": 110900
+        "bpm": 185.0,
+        "time": 107100
     },
     "Fateful…": {
         "artist": "Morfonica",
@@ -2450,24 +2773,24 @@
         "bpm": 132.0,
         "time": 111000
     },
-    "CORE PRIDE": {
-        "artist": "RAISE A SUILEN",
+    "My Poppin' Days for Seeking Glitter": {
+        "artist": "ますかっと feat. 夢ノ結唱 POPY",
         "levels": {
             "easy": 7,
-            "normal": 14,
-            "hard": 21,
-            "expert": 26,
+            "normal": 12,
+            "hard": 22,
+            "expert": 25,
             "special": 0
         },
         "noteCount": {
-            "easy": 148,
-            "normal": 281,
-            "hard": 531,
-            "expert": 788,
+            "easy": 113,
+            "normal": 199,
+            "hard": 532,
+            "expert": 685,
             "special": 0
         },
-        "bpm": 185.0,
-        "time": 107100
+        "bpm": 108.0,
+        "time": 115600
     },
     "Butterfly on your Right Shoulder": {
         "artist": "Roselia",
@@ -2506,6 +2829,25 @@
         },
         "bpm": 145.0,
         "time": 116800
+    },
+    "Silhouette Dance": {
+        "artist": "MyGO!!!!!",
+        "levels": {
+            "easy": 7,
+            "normal": 13,
+            "hard": 22,
+            "expert": 26,
+            "special": 0
+        },
+        "noteCount": {
+            "easy": 102,
+            "normal": 199,
+            "hard": 433,
+            "expert": 697,
+            "special": 0
+        },
+        "bpm": 166.0,
+        "time": 92600
     },
     "Yesterday": {
         "artist": "Poppin'Party",
@@ -2564,6 +2906,25 @@
         "bpm": 189.0,
         "time": 107600
     },
+    "BATTLE CRY": {
+        "artist": "RAISE A SUILEN",
+        "levels": {
+            "easy": 7,
+            "normal": 13,
+            "hard": 21,
+            "expert": 27,
+            "special": 0
+        },
+        "noteCount": {
+            "easy": 117,
+            "normal": 219,
+            "hard": 478,
+            "expert": 854,
+            "special": 0
+        },
+        "bpm": 188.0,
+        "time": 104100
+    },
     "Tokyo Wonder.": {
         "artist": "Afterglow",
         "levels": {
@@ -2603,7 +2964,7 @@
         "time": 116000
     },
     "Tokimeki Poporon": {
-        "artist": "Pastel*Palettes",
+        "artist": "Pastel＊Palettes",
         "levels": {
             "easy": 7,
             "normal": 13,
@@ -2639,6 +3000,25 @@
         },
         "bpm": 190.0,
         "time": 110000
+    },
+    "Oddloop": {
+        "artist": "Poppin'Party",
+        "levels": {
+            "easy": 7,
+            "normal": 14,
+            "hard": 21,
+            "expert": 26,
+            "special": 0
+        },
+        "noteCount": {
+            "easy": 141,
+            "normal": 308,
+            "hard": 546,
+            "expert": 828,
+            "special": 0
+        },
+        "bpm": 172.0,
+        "time": 111000
     },
     "SHINY DAYS": {
         "artist": "Hello, Happy World!",
@@ -2678,6 +3058,25 @@
         "bpm": 160.0,
         "time": 95300
     },
+    "Sunlit Musical": {
+        "artist": "Roselia",
+        "levels": {
+            "easy": 7,
+            "normal": 12,
+            "hard": 22,
+            "expert": 26,
+            "special": 0
+        },
+        "noteCount": {
+            "easy": 97,
+            "normal": 165,
+            "hard": 468,
+            "expert": 685,
+            "special": 0
+        },
+        "bpm": 185.0,
+        "time": 105800
+    },
     "Goka! Gokai!? Phantom Thief!": {
         "artist": "Hello, Happy World!",
         "levels": {
@@ -2696,6 +3095,25 @@
         },
         "bpm": 215.0,
         "time": 101900
+    },
+    "The YuruYuri Incident": {
+        "artist": "Pastel＊Palettes",
+        "levels": {
+            "easy": 7,
+            "normal": 14,
+            "hard": 20,
+            "expert": 25,
+            "special": 0
+        },
+        "noteCount": {
+            "easy": 122,
+            "normal": 272,
+            "hard": 426,
+            "expert": 667,
+            "special": 0
+        },
+        "bpm": 175.0,
+        "time": 102900
     },
     "That Is How I Roll!": {
         "artist": "Afterglow",
@@ -2716,27 +3134,8 @@
         "bpm": 180.0,
         "time": 103100
     },
-    "The YuruYuri Incident": {
-        "artist": "Pastel*Palettes",
-        "levels": {
-            "easy": 7,
-            "normal": 14,
-            "hard": 20,
-            "expert": 25,
-            "special": 0
-        },
-        "noteCount": {
-            "easy": 122,
-            "normal": 272,
-            "hard": 426,
-            "expert": 667,
-            "special": 0
-        },
-        "bpm": 175.0,
-        "time": 102900
-    },
     "Stay Alive": {
-        "artist": "Pastel*Palettes",
+        "artist": "Pastel＊Palettes",
         "levels": {
             "easy": 7,
             "normal": 12,
@@ -2925,6 +3324,63 @@
         "bpm": 149.0,
         "time": 94300
     },
+    "Utaimashou Narimashou": {
+        "artist": "MyGO!!!!!",
+        "levels": {
+            "easy": 7,
+            "normal": 13,
+            "hard": 22,
+            "expert": 26,
+            "special": 0
+        },
+        "noteCount": {
+            "easy": 109,
+            "normal": 217,
+            "hard": 484,
+            "expert": 706,
+            "special": 0
+        },
+        "bpm": 222.0,
+        "time": 101700
+    },
+    "Bokura no Natsu's ☆ Showtime!": {
+        "artist": "Hello, Happy World!",
+        "levels": {
+            "easy": 7,
+            "normal": 14,
+            "hard": 21,
+            "expert": 26,
+            "special": 0
+        },
+        "noteCount": {
+            "easy": 121,
+            "normal": 243,
+            "hard": 446,
+            "expert": 729,
+            "special": 0
+        },
+        "bpm": 178.0,
+        "time": 103200
+    },
+    "Moudoku ga Osou": {
+        "artist": "MyGO!!!!!",
+        "levels": {
+            "easy": 7,
+            "normal": 14,
+            "hard": 21,
+            "expert": 25,
+            "special": 0
+        },
+        "noteCount": {
+            "easy": 128,
+            "normal": 278,
+            "hard": 485,
+            "expert": 736,
+            "special": 0
+        },
+        "bpm": 156.0,
+        "time": 110800
+    },
     "Shangri-La": {
         "artist": "Roselia",
         "levels": {
@@ -2944,7 +3400,7 @@
         "bpm": 156.0,
         "time": 112100
     },
-    "栞": {
+    "Shiori": {
         "artist": "MyGO!!!!!",
         "levels": {
             "easy": 7,
@@ -2962,6 +3418,25 @@
         },
         "bpm": 88.0,
         "time": 107200
+    },
+    "Sparkling Daydream": {
+        "artist": "Pastel＊Palettes",
+        "levels": {
+            "easy": 7,
+            "normal": 14,
+            "hard": 20,
+            "expert": 25,
+            "special": 0
+        },
+        "noteCount": {
+            "easy": 113,
+            "normal": 212,
+            "hard": 446,
+            "expert": 585,
+            "special": 0
+        },
+        "bpm": 175.0,
+        "time": 100200
     },
     "On Your New Journey": {
         "artist": "Poppin'Party",
@@ -2981,25 +3456,6 @@
         },
         "bpm": 125.0,
         "time": 118200
-    },
-    "Sparkling Daydream": {
-        "artist": "Pastel*Palettes",
-        "levels": {
-            "easy": 7,
-            "normal": 14,
-            "hard": 20,
-            "expert": 25,
-            "special": 0
-        },
-        "noteCount": {
-            "easy": 113,
-            "normal": 212,
-            "hard": 446,
-            "expert": 585,
-            "special": 0
-        },
-        "bpm": 175.0,
-        "time": 100200
     },
     "Safe and Sound": {
         "artist": "Roselia",
@@ -3065,14 +3521,14 @@
             "normal": 13,
             "hard": 21,
             "expert": 26,
-            "special": 0
+            "special": 27
         },
         "noteCount": {
             "easy": 143,
             "normal": 251,
             "hard": 508,
             "expert": 695,
-            "special": 0
+            "special": 738
         },
         "bpm": 155.0,
         "time": 105400
@@ -3100,17 +3556,17 @@
         "artist": "FLOW × Afterglow",
         "levels": {
             "easy": 7,
-            "normal": 14,
-            "hard": 21,
-            "expert": 25,
-            "special": 0
+            "normal": 7,
+            "hard": 14,
+            "expert": 14,
+            "special": 21
         },
         "noteCount": {
             "easy": 111,
-            "normal": 242,
-            "hard": 489,
-            "expert": 613,
-            "special": 0
+            "normal": 111,
+            "hard": 242,
+            "expert": 242,
+            "special": 489
         },
         "bpm": 200.0,
         "time": 108100
@@ -3229,25 +3685,6 @@
         "bpm": 203.0,
         "time": 92100
     },
-    "VORACITY": {
-        "artist": "RAISE A SUILEN×MYTH & ROID",
-        "levels": {
-            "easy": 7,
-            "normal": 13,
-            "hard": 21,
-            "expert": 26,
-            "special": 0
-        },
-        "noteCount": {
-            "easy": 104,
-            "normal": 224,
-            "hard": 468,
-            "expert": 688,
-            "special": 0
-        },
-        "bpm": 200.0,
-        "time": 114700
-    },
     "NAMAENO NAI KAIBUTSU": {
         "artist": "Roselia",
         "levels": {
@@ -3266,6 +3703,25 @@
         },
         "bpm": 180.0,
         "time": 116100
+    },
+    "Original Call": {
+        "artist": "Roselia",
+        "levels": {
+            "easy": 7,
+            "normal": 13,
+            "hard": 20,
+            "expert": 25,
+            "special": 0
+        },
+        "noteCount": {
+            "easy": 120,
+            "normal": 235,
+            "hard": 415,
+            "expert": 586,
+            "special": 0
+        },
+        "bpm": 174.0,
+        "time": 104900
     },
     "Heroine Raising Project": {
         "artist": "Poppin'Party",
@@ -3286,24 +3742,24 @@
         "bpm": 180.0,
         "time": 95400
     },
-    "Original Call": {
-        "artist": "Roselia",
+    "VORACITY": {
+        "artist": "RAISE A SUILEN × MYTH & ROID",
         "levels": {
             "easy": 7,
             "normal": 13,
-            "hard": 20,
-            "expert": 25,
+            "hard": 21,
+            "expert": 26,
             "special": 0
         },
         "noteCount": {
-            "easy": 120,
-            "normal": 235,
-            "hard": 415,
-            "expert": 586,
+            "easy": 104,
+            "normal": 224,
+            "hard": 468,
+            "expert": 688,
             "special": 0
         },
-        "bpm": 174.0,
-        "time": 104900
+        "bpm": 200.0,
+        "time": 114700
     },
     "OUTSIDER RODEO": {
         "artist": "RAISE A SUILEN",
@@ -3343,24 +3799,24 @@
         "bpm": 120.0,
         "time": 115100
     },
-    "Imitation Spring": {
-        "artist": "Pastel*Palettes",
+    "Fight Song": {
+        "artist": "Roselia",
         "levels": {
             "easy": 7,
-            "normal": 13,
-            "hard": 19,
-            "expert": 25,
+            "normal": 12,
+            "hard": 23,
+            "expert": 26,
             "special": 0
         },
         "noteCount": {
-            "easy": 111,
-            "normal": 221,
-            "hard": 408,
-            "expert": 610,
+            "easy": 103,
+            "normal": 166,
+            "hard": 533,
+            "expert": 751,
             "special": 0
         },
-        "bpm": 174.0,
-        "time": 102100
+        "bpm": 126.0,
+        "time": 101000
     },
     "彩虹节拍": {
         "artist": "肥皂菌×易言×音阙诗听/赵方婧×西瓜Kune",
@@ -3380,6 +3836,25 @@
         },
         "bpm": 130.0,
         "time": 94300
+    },
+    "Imitation Spring": {
+        "artist": "Pastel＊Palettes",
+        "levels": {
+            "easy": 7,
+            "normal": 13,
+            "hard": 19,
+            "expert": 25,
+            "special": 0
+        },
+        "noteCount": {
+            "easy": 111,
+            "normal": 221,
+            "hard": 408,
+            "expert": 610,
+            "special": 0
+        },
+        "bpm": 174.0,
+        "time": 102100
     },
     "Hacking to the Gate": {
         "artist": "Roselia",
@@ -3420,7 +3895,7 @@
         "time": 89200
     },
     "Pasupa Revolutions☆": {
-        "artist": "Pastel*Palettes",
+        "artist": "Pastel＊Palettes",
         "levels": {
             "easy": 7,
             "normal": 12,
@@ -3458,7 +3933,7 @@
         "time": 93800
     },
     "Fuwa-Fuwa Time": {
-        "artist": "Pastel*Palettes",
+        "artist": "Pastel＊Palettes",
         "levels": {
             "easy": 7,
             "normal": 13,
@@ -3476,8 +3951,8 @@
         "bpm": 180.0,
         "time": 95400
     },
-    "Phony": {
-        "artist": "Afterglow×96猫",
+    "phony": {
+        "artist": "Afterglow × 96Neko",
         "levels": {
             "easy": 8,
             "normal": 14,
@@ -3515,7 +3990,7 @@
         "time": 128100
     },
     "Wonderland Girl": {
-        "artist": "Pastel*Palettes",
+        "artist": "Pastel＊Palettes",
         "levels": {
             "easy": 8,
             "normal": 14,
@@ -3553,7 +4028,7 @@
         "time": 127700
     },
     "Fansa": {
-        "artist": "Pastel*Palettes × Minato Aqua",
+        "artist": "Pastel＊Palettes × Minato Aqua",
         "levels": {
             "easy": 8,
             "normal": 13,
@@ -3781,7 +4256,7 @@
         "time": 146200
     },
     "Luka Luka★Night Fever": {
-        "artist": "Pastel*Palettes",
+        "artist": "Pastel＊Palettes",
         "levels": {
             "easy": 8,
             "normal": 14,
@@ -3818,25 +4293,6 @@
         "bpm": 135.0,
         "time": 112900
     },
-    "TITLE IDOL": {
-        "artist": "Pastel*Palettes",
-        "levels": {
-            "easy": 8,
-            "normal": 14,
-            "hard": 19,
-            "expert": 25,
-            "special": 0
-        },
-        "noteCount": {
-            "easy": 154,
-            "normal": 256,
-            "hard": 446,
-            "expert": 658,
-            "special": 0
-        },
-        "bpm": 145.0,
-        "time": 118400
-    },
     "Hyadain no Jojo Yujo": {
         "artist": "Hello, Happy World!",
         "levels": {
@@ -3855,6 +4311,25 @@
         },
         "bpm": 200.0,
         "time": 132700
+    },
+    "TITLE IDOL": {
+        "artist": "Pastel＊Palettes",
+        "levels": {
+            "easy": 8,
+            "normal": 14,
+            "hard": 19,
+            "expert": 25,
+            "special": 0
+        },
+        "noteCount": {
+            "easy": 154,
+            "normal": 256,
+            "hard": 446,
+            "expert": 658,
+            "special": 0
+        },
+        "bpm": 145.0,
+        "time": 118400
     },
     "Darling Dance": {
         "artist": "Hello, Happy World!",
@@ -3894,8 +4369,8 @@
         "bpm": 167.0,
         "time": 125100
     },
-    "Gunjou": {
-        "artist": "Morfonica×友希那",
+    "Blue": {
+        "artist": "Morfonica × Yukina",
         "levels": {
             "easy": 8,
             "normal": 14,
@@ -4046,25 +4521,6 @@
         "bpm": 181.0,
         "time": 126600
     },
-    "Crow Song": {
-        "artist": "Afterglow",
-        "levels": {
-            "easy": 8,
-            "normal": 14,
-            "hard": 22,
-            "expert": 26,
-            "special": 0
-        },
-        "noteCount": {
-            "easy": 163,
-            "normal": 274,
-            "hard": 574,
-            "expert": 865,
-            "special": 0
-        },
-        "bpm": 174.0,
-        "time": 117300
-    },
     "A DECLARATION OF ×××": {
         "artist": "RAISE A SUILEN",
         "levels": {
@@ -4084,24 +4540,24 @@
         "bpm": 150.0,
         "time": 120100
     },
-    "Psychopath Girl": {
-        "artist": "Poppin'Party×P丸様。",
+    "Crow Song": {
+        "artist": "Afterglow",
         "levels": {
             "easy": 8,
-            "normal": 13,
-            "hard": 20,
+            "normal": 14,
+            "hard": 22,
             "expert": 26,
             "special": 0
         },
         "noteCount": {
-            "easy": 129,
-            "normal": 226,
-            "hard": 499,
-            "expert": 784,
+            "easy": 163,
+            "normal": 274,
+            "hard": 574,
+            "expert": 865,
             "special": 0
         },
-        "bpm": 168.0,
-        "time": 122900
+        "bpm": 174.0,
+        "time": 117300
     },
     "Melissa": {
         "artist": "Morfonica",
@@ -4122,6 +4578,25 @@
         "bpm": 170.0,
         "time": 112300
     },
+    "Psychopath Girl": {
+        "artist": "Poppin'Party×P丸様。",
+        "levels": {
+            "easy": 8,
+            "normal": 13,
+            "hard": 20,
+            "expert": 26,
+            "special": 0
+        },
+        "noteCount": {
+            "easy": 129,
+            "normal": 226,
+            "hard": 499,
+            "expert": 784,
+            "special": 0
+        },
+        "bpm": 168.0,
+        "time": 122900
+    },
     "Sʼil Vous President": {
         "artist": "Hello, Happy World! × Aya × Mashiro",
         "levels": {
@@ -4140,6 +4615,25 @@
         },
         "bpm": 176.0,
         "time": 121400
+    },
+    "Kawaikute Gomen": {
+        "artist": "Pastel＊Palettes 日菜×千聖×麻弥×イヴ",
+        "levels": {
+            "easy": 8,
+            "normal": 13,
+            "hard": 19,
+            "expert": 25,
+            "special": 0
+        },
+        "noteCount": {
+            "easy": 165,
+            "normal": 258,
+            "hard": 474,
+            "expert": 658,
+            "special": 0
+        },
+        "bpm": 160.0,
+        "time": 122300
     },
     "final phase": {
         "artist": "Poppin'Party",
@@ -4160,25 +4654,6 @@
         "bpm": 149.0,
         "time": 95900
     },
-    "Samurai Heart(Some Like It Hot!!)": {
-        "artist": "Afterglow",
-        "levels": {
-            "easy": 8,
-            "normal": 14,
-            "hard": 22,
-            "expert": 26,
-            "special": 0
-        },
-        "noteCount": {
-            "easy": 146,
-            "normal": 320,
-            "hard": 578,
-            "expert": 828,
-            "special": 0
-        },
-        "bpm": 113.0,
-        "time": 133900
-    },
     "Rolling star": {
         "artist": "Afterglow",
         "levels": {
@@ -4197,6 +4672,25 @@
         },
         "bpm": 161.0,
         "time": 119300
+    },
+    "Samurai Heart(Some Like It Hot!!)": {
+        "artist": "Afterglow",
+        "levels": {
+            "easy": 8,
+            "normal": 14,
+            "hard": 22,
+            "expert": 26,
+            "special": 0
+        },
+        "noteCount": {
+            "easy": 146,
+            "normal": 320,
+            "hard": 578,
+            "expert": 828,
+            "special": 0
+        },
+        "bpm": 113.0,
+        "time": 133900
     },
     "A Cloudy Sky": {
         "artist": "Roselia × LAYER",
@@ -4218,7 +4712,7 @@
         "time": 122700
     },
     "Make it!": {
-        "artist": "Pastel*Palettes",
+        "artist": "Pastel＊Palettes",
         "levels": {
             "easy": 8,
             "normal": 14,
@@ -4254,6 +4748,25 @@
         },
         "bpm": 152.0,
         "time": 144700
+    },
+    "Hekitenbansou": {
+        "artist": "MyGO!!!!!",
+        "levels": {
+            "easy": 8,
+            "normal": 14,
+            "hard": 22,
+            "expert": 27,
+            "special": 0
+        },
+        "noteCount": {
+            "easy": 147,
+            "normal": 271,
+            "hard": 580,
+            "expert": 966,
+            "special": 0
+        },
+        "bpm": 192.0,
+        "time": 119400
     },
     "Dreamers Go!": {
         "artist": "Poppin'Party",
@@ -4294,7 +4807,7 @@
         "time": 121600
     },
     "SAKURA SKIP": {
-        "artist": "Pastel*Palettes",
+        "artist": "Pastel＊Palettes",
         "levels": {
             "easy": 8,
             "normal": 13,
@@ -4350,27 +4863,8 @@
         "bpm": 128.0,
         "time": 124800
     },
-    "Courage Limit!": {
-        "artist": "Poppin'Party",
-        "levels": {
-            "easy": 8,
-            "normal": 14,
-            "hard": 21,
-            "expert": 26,
-            "special": 0
-        },
-        "noteCount": {
-            "easy": 124,
-            "normal": 267,
-            "hard": 518,
-            "expert": 749,
-            "special": 0
-        },
-        "bpm": 224.0,
-        "time": 111500
-    },
     "Q&A Recital!": {
-        "artist": "Pastel*Palettes",
+        "artist": "Pastel＊Palettes",
         "levels": {
             "easy": 8,
             "normal": 14,
@@ -4406,6 +4900,25 @@
         },
         "bpm": 138.0,
         "time": 130000
+    },
+    "Courage Limit!": {
+        "artist": "Poppin'Party",
+        "levels": {
+            "easy": 8,
+            "normal": 14,
+            "hard": 21,
+            "expert": 26,
+            "special": 0
+        },
+        "noteCount": {
+            "easy": 124,
+            "normal": 267,
+            "hard": 518,
+            "expert": 749,
+            "special": 0
+        },
+        "bpm": 224.0,
+        "time": 111500
     },
     "Song I am.": {
         "artist": "Roselia",
@@ -4483,25 +4996,6 @@
         "bpm": 188.0,
         "time": 109200
     },
-    "Smile Connection!": {
-        "artist": "Hello, Happy World!",
-        "levels": {
-            "easy": 8,
-            "normal": 13,
-            "hard": 19,
-            "expert": 24,
-            "special": 0
-        },
-        "noteCount": {
-            "easy": 123,
-            "normal": 227,
-            "hard": 403,
-            "expert": 612,
-            "special": 0
-        },
-        "bpm": 167.0,
-        "time": 108600
-    },
     "Legendary": {
         "artist": "Roselia",
         "levels": {
@@ -4520,6 +5014,25 @@
         },
         "bpm": 144.0,
         "time": 110900
+    },
+    "Smile Connection!": {
+        "artist": "Hello, Happy World!",
+        "levels": {
+            "easy": 8,
+            "normal": 13,
+            "hard": 19,
+            "expert": 24,
+            "special": 0
+        },
+        "noteCount": {
+            "easy": 123,
+            "normal": 227,
+            "hard": 403,
+            "expert": 612,
+            "special": 0
+        },
+        "bpm": 167.0,
+        "time": 108600
     },
     "ONENESS": {
         "artist": "Roselia",
@@ -4558,6 +5071,25 @@
         },
         "bpm": 79.0,
         "time": 130699
+    },
+    "Be born": {
+        "artist": "メガテラ・ゼロ feat. 夢ノ結唱 POPY",
+        "levels": {
+            "easy": 8,
+            "normal": 14,
+            "hard": 22,
+            "expert": 27,
+            "special": 0
+        },
+        "noteCount": {
+            "easy": 139,
+            "normal": 289,
+            "hard": 505,
+            "expert": 900,
+            "special": 0
+        },
+        "bpm": 145.0,
+        "time": 111000
     },
     "Storyteller": {
         "artist": "Hello, Happy World!",
@@ -4693,7 +5225,7 @@
         "time": 107600
     },
     "Mikumiku Ni Shiteageru♪[Shiteyanyo]": {
-        "artist": "Pastel*Palettes",
+        "artist": "Pastel＊Palettes",
         "levels": {
             "easy": 8,
             "normal": 14,
@@ -4806,25 +5338,6 @@
         "bpm": 200.0,
         "time": 109900
     },
-    "Senkou": {
-        "artist": "Afterglow×レイヤ",
-        "levels": {
-            "easy": 8,
-            "normal": 14,
-            "hard": 22,
-            "expert": 27,
-            "special": 0
-        },
-        "noteCount": {
-            "easy": 123,
-            "normal": 256,
-            "hard": 570,
-            "expert": 898,
-            "special": 0
-        },
-        "bpm": 208.0,
-        "time": 115400
-    },
     "Y.O.L.O!!!!!": {
         "artist": "Afterglow",
         "levels": {
@@ -4844,8 +5357,27 @@
         "bpm": 210.0,
         "time": 115300
     },
+    "Senkou": {
+        "artist": "Afterglow × LAYER",
+        "levels": {
+            "easy": 8,
+            "normal": 14,
+            "hard": 22,
+            "expert": 27,
+            "special": 0
+        },
+        "noteCount": {
+            "easy": 123,
+            "normal": 256,
+            "hard": 570,
+            "expert": 898,
+            "special": 0
+        },
+        "bpm": 208.0,
+        "time": 115400
+    },
     "Akogare Across": {
-        "artist": "Pastel*Palettes",
+        "artist": "Pastel＊Palettes",
         "levels": {
             "easy": 8,
             "normal": 14,
@@ -4864,7 +5396,7 @@
         "time": 108100
     },
     "Motteke! Sailor Fuku": {
-        "artist": "ハロー、ハッピーワールド！×香澄×有咲×イヴ",
+        "artist": "Hello, Happy World! × Kasumi × Arisa × Eve",
         "levels": {
             "easy": 8,
             "normal": 14,
@@ -4881,6 +5413,25 @@
         },
         "bpm": 150.0,
         "time": 102500
+    },
+    "Power of LOVE!!!": {
+        "artist": "Pastel＊Palettes",
+        "levels": {
+            "easy": 8,
+            "normal": 14,
+            "hard": 20,
+            "expert": 26,
+            "special": 0
+        },
+        "noteCount": {
+            "easy": 155,
+            "normal": 278,
+            "hard": 462,
+            "expert": 759,
+            "special": 0
+        },
+        "bpm": 175.0,
+        "time": 110500
     },
     "Ichie no Full Glory": {
         "artist": "Roselia",
@@ -4900,25 +5451,6 @@
         },
         "bpm": 200.0,
         "time": 112300
-    },
-    "Power of LOVE!!!": {
-        "artist": "Pastel*Palettes",
-        "levels": {
-            "easy": 8,
-            "normal": 14,
-            "hard": 20,
-            "expert": 26,
-            "special": 0
-        },
-        "noteCount": {
-            "easy": 155,
-            "normal": 278,
-            "hard": 462,
-            "expert": 759,
-            "special": 0
-        },
-        "bpm": 175.0,
-        "time": 110500
     },
     "Wacha-Mocha Pettan March": {
         "artist": "Hello, Happy World!",
@@ -4977,25 +5509,6 @@
         "bpm": 144.0,
         "time": 115100
     },
-    "abnormalize": {
-        "artist": "Afterglow",
-        "levels": {
-            "easy": 8,
-            "normal": 14,
-            "hard": 21,
-            "expert": 26,
-            "special": 0
-        },
-        "noteCount": {
-            "easy": 129,
-            "normal": 212,
-            "hard": 531,
-            "expert": 864,
-            "special": 0
-        },
-        "bpm": 175.0,
-        "time": 117300
-    },
     "Buriki no Dance": {
         "artist": "RAISE A SUILEN",
         "levels": {
@@ -5015,43 +5528,24 @@
         "bpm": 172.0,
         "time": 127700
     },
-    "Thoughtful Harmony": {
-        "artist": "Hello, Happy World!",
+    "abnormalize": {
+        "artist": "Afterglow",
         "levels": {
             "easy": 8,
-            "normal": 12,
-            "hard": 19,
-            "expert": 23,
-            "special": 0
-        },
-        "noteCount": {
-            "easy": 129,
-            "normal": 179,
-            "hard": 311,
-            "expert": 479,
-            "special": 0
-        },
-        "bpm": 135.0,
-        "time": 111200
-    },
-    "Planet Loop": {
-        "artist": "Pastel*Palettes×パレオ",
-        "levels": {
-            "easy": 8,
-            "normal": 13,
-            "hard": 20,
+            "normal": 14,
+            "hard": 21,
             "expert": 26,
             "special": 0
         },
         "noteCount": {
-            "easy": 162,
-            "normal": 279,
-            "hard": 546,
-            "expert": 823,
+            "easy": 129,
+            "normal": 212,
+            "hard": 531,
+            "expert": 864,
             "special": 0
         },
-        "bpm": 170.0,
-        "time": 128500
+        "bpm": 175.0,
+        "time": 117300
     },
     "CiRCLING": {
         "artist": "Poppin'Party",
@@ -5071,6 +5565,44 @@
         },
         "bpm": 160.0,
         "time": 120100
+    },
+    "Planet Loop": {
+        "artist": "Pastel＊Palettes×パレオ",
+        "levels": {
+            "easy": 8,
+            "normal": 13,
+            "hard": 20,
+            "expert": 26,
+            "special": 0
+        },
+        "noteCount": {
+            "easy": 162,
+            "normal": 279,
+            "hard": 546,
+            "expert": 823,
+            "special": 0
+        },
+        "bpm": 170.0,
+        "time": 128500
+    },
+    "Thoughtful Harmony": {
+        "artist": "Hello, Happy World!",
+        "levels": {
+            "easy": 8,
+            "normal": 12,
+            "hard": 19,
+            "expert": 23,
+            "special": 0
+        },
+        "noteCount": {
+            "easy": 129,
+            "normal": 179,
+            "hard": 311,
+            "expert": 479,
+            "special": 0
+        },
+        "bpm": 135.0,
+        "time": 111200
     },
     "Cheering for the Smile Bouquet!": {
         "artist": "Hello, Happy World!",
@@ -5111,7 +5643,7 @@
         "time": 107400
     },
     "Hanamaru◎Andante": {
-        "artist": "Pastel*Palettes",
+        "artist": "Pastel＊Palettes",
         "levels": {
             "easy": 8,
             "normal": 14,
@@ -5224,44 +5756,6 @@
         "bpm": 160.0,
         "time": 117800
     },
-    "Sparkling Dreaming ~ Sing Girls ~": {
-        "artist": "Poppin'Party",
-        "levels": {
-            "easy": 8,
-            "normal": 14,
-            "hard": 19,
-            "expert": 25,
-            "special": 26
-        },
-        "noteCount": {
-            "easy": 152,
-            "normal": 296,
-            "hard": 363,
-            "expert": 613,
-            "special": 839
-        },
-        "bpm": 180.0,
-        "time": 112600
-    },
-    "Shin Ai": {
-        "artist": "Roselia",
-        "levels": {
-            "easy": 8,
-            "normal": 14,
-            "hard": 20,
-            "expert": 25,
-            "special": 0
-        },
-        "noteCount": {
-            "easy": 150,
-            "normal": 262,
-            "hard": 422,
-            "expert": 666,
-            "special": 0
-        },
-        "bpm": 138.0,
-        "time": 114000
-    },
     "Melancholic": {
         "artist": "Poppin'Party",
         "levels": {
@@ -5300,6 +5794,44 @@
         "bpm": 279.0,
         "time": 109300
     },
+    "Sparkling Dreaming ~ Sing Girls ~": {
+        "artist": "Poppin'Party",
+        "levels": {
+            "easy": 8,
+            "normal": 14,
+            "hard": 19,
+            "expert": 25,
+            "special": 26
+        },
+        "noteCount": {
+            "easy": 152,
+            "normal": 296,
+            "hard": 363,
+            "expert": 613,
+            "special": 839
+        },
+        "bpm": 180.0,
+        "time": 112600
+    },
+    "Shin Ai": {
+        "artist": "Roselia",
+        "levels": {
+            "easy": 8,
+            "normal": 14,
+            "hard": 20,
+            "expert": 25,
+            "special": 0
+        },
+        "noteCount": {
+            "easy": 150,
+            "normal": 262,
+            "hard": 422,
+            "expert": 666,
+            "special": 0
+        },
+        "bpm": 138.0,
+        "time": 114000
+    },
     "Venom": {
         "artist": "Afterglow",
         "levels": {
@@ -5319,6 +5851,25 @@
         "bpm": 152.0,
         "time": 105900
     },
+    "MOON PRIDE": {
+        "artist": "Pastel＊Palettes",
+        "levels": {
+            "easy": 8,
+            "normal": 14,
+            "hard": 20,
+            "expert": 26,
+            "special": 0
+        },
+        "noteCount": {
+            "easy": 181,
+            "normal": 265,
+            "hard": 450,
+            "expert": 716,
+            "special": 0
+        },
+        "bpm": 173.0,
+        "time": 112400
+    },
     "Quintuple☆Smile": {
         "artist": "GBP! Special Band",
         "levels": {
@@ -5337,25 +5888,6 @@
         },
         "bpm": 173.0,
         "time": 110400
-    },
-    "MOON PRIDE": {
-        "artist": "Pastel*Palettes",
-        "levels": {
-            "easy": 8,
-            "normal": 14,
-            "hard": 20,
-            "expert": 26,
-            "special": 0
-        },
-        "noteCount": {
-            "easy": 181,
-            "normal": 265,
-            "hard": 450,
-            "expert": 716,
-            "special": 0
-        },
-        "bpm": 173.0,
-        "time": 112400
     },
     "Moonlight Walk": {
         "artist": "Poppin'Party",
@@ -5415,7 +5947,7 @@
         "time": 108300
     },
     "Baby Sweet Berry Love": {
-        "artist": "Pastel*Palettes",
+        "artist": "Pastel＊Palettes",
         "levels": {
             "easy": 8,
             "normal": 13,
@@ -5547,25 +6079,6 @@
         "bpm": 145.0,
         "time": 97700
     },
-    "Pep Meets Step": {
-        "artist": "Pastel*Palettes",
-        "levels": {
-            "easy": 8,
-            "normal": 12,
-            "hard": 20,
-            "expert": 25,
-            "special": 0
-        },
-        "noteCount": {
-            "easy": 135,
-            "normal": 217,
-            "hard": 411,
-            "expert": 634,
-            "special": 0
-        },
-        "bpm": 137.0,
-        "time": 104300
-    },
     "Inferno": {
         "artist": "Afterglow",
         "levels": {
@@ -5584,6 +6097,25 @@
         },
         "bpm": 185.0,
         "time": 110400
+    },
+    "Pep Meets Step": {
+        "artist": "Pastel＊Palettes",
+        "levels": {
+            "easy": 8,
+            "normal": 12,
+            "hard": 20,
+            "expert": 25,
+            "special": 0
+        },
+        "noteCount": {
+            "easy": 135,
+            "normal": 217,
+            "hard": 411,
+            "expert": 634,
+            "special": 0
+        },
+        "bpm": 137.0,
+        "time": 104300
     },
     "The Great Hello Happy Phantom Thief Appears!": {
         "artist": "Hello, Happy World!",
@@ -5680,6 +6212,25 @@
         "bpm": 184.0,
         "time": 91400
     },
+    "Ego Rock": {
+        "artist": "Hello, Happy World!",
+        "levels": {
+            "easy": 8,
+            "normal": 14,
+            "hard": 23,
+            "expert": 28,
+            "special": 0
+        },
+        "noteCount": {
+            "easy": 136,
+            "normal": 245,
+            "hard": 532,
+            "expert": 810,
+            "special": 0
+        },
+        "bpm": 225.0,
+        "time": 105100
+    },
     "fly with the night": {
         "artist": "Morfonica",
         "levels": {
@@ -5738,7 +6289,7 @@
         "time": 106800
     },
     "Nostalgic Rainfall": {
-        "artist": "Pastel*Palettes",
+        "artist": "Pastel＊Palettes",
         "levels": {
             "easy": 8,
             "normal": 13,
@@ -5870,25 +6421,6 @@
         "bpm": 102.0,
         "time": 103600
     },
-    "DANCING DARING": {
-        "artist": "RAISE A SUILEN",
-        "levels": {
-            "easy": 8,
-            "normal": 14,
-            "hard": 21,
-            "expert": 26,
-            "special": 0
-        },
-        "noteCount": {
-            "easy": 129,
-            "normal": 233,
-            "hard": 423,
-            "expert": 762,
-            "special": 0
-        },
-        "bpm": 188.0,
-        "time": 101600
-    },
     "A Song No More": {
         "artist": "Poppin'Party",
         "levels": {
@@ -5907,6 +6439,25 @@
         },
         "bpm": 190.0,
         "time": 106200
+    },
+    "DANCING DARING": {
+        "artist": "RAISE A SUILEN",
+        "levels": {
+            "easy": 8,
+            "normal": 14,
+            "hard": 21,
+            "expert": 26,
+            "special": 0
+        },
+        "noteCount": {
+            "easy": 129,
+            "normal": 233,
+            "hard": 423,
+            "expert": 762,
+            "special": 0
+        },
+        "bpm": 188.0,
+        "time": 101600
     },
     "How-To: World Domination": {
         "artist": "Afterglow",
@@ -6041,6 +6592,25 @@
         "bpm": 180.0,
         "time": 106100
     },
+    "The Blessing": {
+        "artist": "Morfonica",
+        "levels": {
+            "easy": 8,
+            "normal": 14,
+            "hard": 22,
+            "expert": 26,
+            "special": 0
+        },
+        "noteCount": {
+            "easy": 115,
+            "normal": 226,
+            "hard": 449,
+            "expert": 623,
+            "special": 0
+        },
+        "bpm": 170.0,
+        "time": 91800
+    },
     "Korekara": {
         "artist": "Hello, Happy World!",
         "levels": {
@@ -6060,7 +6630,7 @@
         "bpm": 162.0,
         "time": 91200
     },
-    "Egao, Are You Ready???": {
+    "Smile, Are You Ready???": {
         "artist": "Hello, Happy World!",
         "levels": {
             "easy": 8,
@@ -6080,7 +6650,7 @@
         "time": 107000
     },
     "DANCE! Ojamajo": {
-        "artist": "Pastel*Palettes",
+        "artist": "Pastel＊Palettes",
         "levels": {
             "easy": 8,
             "normal": 13,
@@ -6099,7 +6669,7 @@
         "time": 95600
     },
     "Hana ha odoreya irohaniho": {
-        "artist": "Pastel*Palettes",
+        "artist": "Pastel＊Palettes",
         "levels": {
             "easy": 8,
             "normal": 14,
@@ -6174,25 +6744,6 @@
         "bpm": 192.0,
         "time": 92600
     },
-    "Shunkan Sentimental": {
-        "artist": "Afterglow",
-        "levels": {
-            "easy": 8,
-            "normal": 14,
-            "hard": 21,
-            "expert": 26,
-            "special": 26
-        },
-        "noteCount": {
-            "easy": 139,
-            "normal": 235,
-            "hard": 446,
-            "expert": 709,
-            "special": 649
-        },
-        "bpm": 168.0,
-        "time": 97200
-    },
     "Worldwide Treasure!": {
         "artist": "Hello, Happy World!",
         "levels": {
@@ -6212,7 +6763,26 @@
         "bpm": 85.0,
         "time": 107400
     },
-    "壱雫空": {
+    "Shunkan Sentimental": {
+        "artist": "Afterglow",
+        "levels": {
+            "easy": 8,
+            "normal": 14,
+            "hard": 21,
+            "expert": 26,
+            "special": 26
+        },
+        "noteCount": {
+            "easy": 139,
+            "normal": 235,
+            "hard": 446,
+            "expert": 709,
+            "special": 649
+        },
+        "bpm": 168.0,
+        "time": 97200
+    },
+    "Hitoshizuku": {
         "artist": "MyGO!!!!!",
         "levels": {
             "easy": 8,
@@ -6232,7 +6802,7 @@
         "time": 92400
     },
     "Unite! From A To Z": {
-        "artist": "Pastel*Palettes",
+        "artist": "Pastel＊Palettes",
         "levels": {
             "easy": 8,
             "normal": 13,
@@ -6307,25 +6877,6 @@
         "bpm": 195.0,
         "time": 102200
     },
-    "Legendary (English Version)": {
-        "artist": "Roselia ",
-        "levels": {
-            "easy": 8,
-            "normal": 13,
-            "hard": 18,
-            "expert": 25,
-            "special": 0
-        },
-        "noteCount": {
-            "easy": 126,
-            "normal": 199,
-            "hard": 376,
-            "expert": 544,
-            "special": 0
-        },
-        "bpm": 144.0,
-        "time": 92600
-    },
     "[Super Hard New SPECIAL] Roku Chounen To Ichiya Monogatari": {
         "artist": "Roselia",
         "levels": {
@@ -6364,6 +6915,44 @@
         "bpm": 186.0,
         "time": 103900
     },
+    "Legendary (English Version)": {
+        "artist": "Roselia ",
+        "levels": {
+            "easy": 8,
+            "normal": 13,
+            "hard": 18,
+            "expert": 25,
+            "special": 0
+        },
+        "noteCount": {
+            "easy": 126,
+            "normal": 199,
+            "hard": 376,
+            "expert": 544,
+            "special": 0
+        },
+        "bpm": 144.0,
+        "time": 92600
+    },
+    "swim": {
+        "artist": "MyGO!!!!!",
+        "levels": {
+            "easy": 8,
+            "normal": 14,
+            "hard": 23,
+            "expert": 26,
+            "special": 0
+        },
+        "noteCount": {
+            "easy": 119,
+            "normal": 240,
+            "hard": 471,
+            "expert": 691,
+            "special": 0
+        },
+        "bpm": 195.0,
+        "time": 91200
+    },
     "fantastic dreamer": {
         "artist": "Hello, Happy World!",
         "levels": {
@@ -6384,7 +6973,7 @@
         "time": 99800
     },
     "Fantastic future": {
-        "artist": "Pastel*Palettes",
+        "artist": "Pastel＊Palettes",
         "levels": {
             "easy": 8,
             "normal": 14,
@@ -6460,7 +7049,7 @@
         "time": 127100
     },
     "Yura-Yura Ring-Dong-Dance": {
-        "artist": "Pastel*Palettes",
+        "artist": "Pastel＊Palettes",
         "levels": {
             "easy": 9,
             "normal": 14,
@@ -6630,6 +7219,25 @@
         "bpm": 176.0,
         "time": 111200
     },
+    "CHAINSAW BLOOD": {
+        "artist": "Afterglow",
+        "levels": {
+            "easy": 9,
+            "normal": 14,
+            "hard": 21,
+            "expert": 25,
+            "special": 0
+        },
+        "noteCount": {
+            "easy": 165,
+            "normal": 270,
+            "hard": 554,
+            "expert": 881,
+            "special": 0
+        },
+        "bpm": 147.0,
+        "time": 127400
+    },
     "Imagination": {
         "artist": "Afterglow",
         "levels": {
@@ -6644,10 +7252,29 @@
             "normal": 302,
             "hard": 567,
             "expert": 769,
-            "special": 637
+            "special": 638
         },
         "bpm": 204.0,
         "time": 120100
+    },
+    "THRONE OF ROSE": {
+        "artist": "Roselia",
+        "levels": {
+            "easy": 9,
+            "normal": 14,
+            "hard": 21,
+            "expert": 27,
+            "special": 0
+        },
+        "noteCount": {
+            "easy": 170,
+            "normal": 305,
+            "hard": 535,
+            "expert": 913,
+            "special": 0
+        },
+        "bpm": 160.0,
+        "time": 118600
     },
     "We Are!": {
         "artist": "Hello, Happy World!",
@@ -6688,7 +7315,7 @@
         "time": 122200
     },
     "Into The Night": {
-        "artist": "Pastel*Palettes",
+        "artist": "Pastel＊Palettes",
         "levels": {
             "easy": 9,
             "normal": 14,
@@ -6802,7 +7429,7 @@
         "time": 129300
     },
     "Sunny☆Fortune": {
-        "artist": "Pastel*Palettes",
+        "artist": "Pastel＊Palettes",
         "levels": {
             "easy": 9,
             "normal": 14,
@@ -6858,25 +7485,6 @@
         "bpm": 142.0,
         "time": 117600
     },
-    "Angel's Ladder": {
-        "artist": "Morfonica",
-        "levels": {
-            "easy": 9,
-            "normal": 15,
-            "hard": 22,
-            "expert": 27,
-            "special": 0
-        },
-        "noteCount": {
-            "easy": 152,
-            "normal": 290,
-            "hard": 580,
-            "expert": 869,
-            "special": 0
-        },
-        "bpm": 198.0,
-        "time": 106100
-    },
     "Listen!!": {
         "artist": "Afterglow",
         "levels": {
@@ -6895,6 +7503,44 @@
         },
         "bpm": 175.0,
         "time": 125600
+    },
+    "Children Record (Re:boot)": {
+        "artist": "Afterglow",
+        "levels": {
+            "easy": 9,
+            "normal": 15,
+            "hard": 24,
+            "expert": 27,
+            "special": 0
+        },
+        "noteCount": {
+            "easy": 155,
+            "normal": 351,
+            "hard": 639,
+            "expert": 963,
+            "special": 0
+        },
+        "bpm": 206.0,
+        "time": 123000
+    },
+    "Angel's Ladder": {
+        "artist": "Morfonica",
+        "levels": {
+            "easy": 9,
+            "normal": 15,
+            "hard": 22,
+            "expert": 27,
+            "special": 0
+        },
+        "noteCount": {
+            "easy": 152,
+            "normal": 290,
+            "hard": 580,
+            "expert": 869,
+            "special": 0
+        },
+        "bpm": 198.0,
+        "time": 106100
     },
     "Pico! Papi! Girls Band Party! PICO!!!": {
         "artist": "Kasumi × Ran × Aya × Yukina × Kokoro",
@@ -7029,24 +7675,24 @@
         "bpm": 134.0,
         "time": 105700
     },
-    "Time Lapse": {
-        "artist": "Poppin'Party",
+    "High Five ∞ Adventure": {
+        "artist": "Hello, Happy World!",
         "levels": {
             "easy": 9,
-            "normal": 15,
+            "normal": 14,
             "hard": 21,
             "expert": 26,
-            "special": 0
+            "special": 25
         },
         "noteCount": {
-            "easy": 148,
-            "normal": 252,
-            "hard": 563,
-            "expert": 728,
-            "special": 0
+            "easy": 203,
+            "normal": 307,
+            "hard": 504,
+            "expert": 853,
+            "special": 706
         },
-        "bpm": 192.0,
-        "time": 123800
+        "bpm": 198.0,
+        "time": 117600
     },
     "SOUL SOLDIER": {
         "artist": "RAISE A SUILEN",
@@ -7067,6 +7713,25 @@
         "bpm": 192.0,
         "time": 110100
     },
+    "Time Lapse": {
+        "artist": "Poppin'Party",
+        "levels": {
+            "easy": 9,
+            "normal": 15,
+            "hard": 21,
+            "expert": 26,
+            "special": 0
+        },
+        "noteCount": {
+            "easy": 148,
+            "normal": 252,
+            "hard": 563,
+            "expert": 728,
+            "special": 0
+        },
+        "bpm": 192.0,
+        "time": 123800
+    },
     "My Dearest": {
         "artist": "Roselia",
         "levels": {
@@ -7085,25 +7750,6 @@
         },
         "bpm": 168.0,
         "time": 99400
-    },
-    "High Five ∞ Adventure": {
-        "artist": "Hello, Happy World!",
-        "levels": {
-            "easy": 9,
-            "normal": 14,
-            "hard": 21,
-            "expert": 26,
-            "special": 25
-        },
-        "noteCount": {
-            "easy": 203,
-            "normal": 307,
-            "hard": 504,
-            "expert": 853,
-            "special": 706
-        },
-        "bpm": 198.0,
-        "time": 117600
     },
     "Domination to world": {
         "artist": "RAISE A SUILEN",
@@ -7125,20 +7771,20 @@
         "time": 109900
     },
     "Hot, Hot! Sunny Love☆Summer!": {
-        "artist": "Pastel*Palettes",
+        "artist": "Pastel＊Palettes",
         "levels": {
             "easy": 9,
             "normal": 14,
             "hard": 21,
             "expert": 26,
-            "special": 0
+            "special": 26
         },
         "noteCount": {
             "easy": 146,
             "normal": 264,
             "hard": 502,
             "expert": 778,
-            "special": 0
+            "special": 750
         },
         "bpm": 172.0,
         "time": 109600
@@ -7258,7 +7904,7 @@
         "time": 116700
     },
     "Lum's Love Song": {
-        "artist": "Pastel*Palettes",
+        "artist": "Pastel＊Palettes",
         "levels": {
             "easy": 9,
             "normal": 14,
@@ -7314,6 +7960,25 @@
         "bpm": 192.0,
         "time": 106300
     },
+    "Hibana -Reloaded-": {
+        "artist": "Roselia",
+        "levels": {
+            "easy": 9,
+            "normal": 15,
+            "hard": 24,
+            "expert": 29,
+            "special": 0
+        },
+        "noteCount": {
+            "easy": 187,
+            "normal": 355,
+            "hard": 701,
+            "expert": 1187,
+            "special": 0
+        },
+        "bpm": 200.0,
+        "time": 124900
+    },
     "Brand New Days - Same As Always": {
         "artist": "Afterglow",
         "levels": {
@@ -7333,24 +7998,24 @@
         "bpm": 192.0,
         "time": 104400
     },
-    "ZEAL of proud": {
-        "artist": "Roselia",
+    "Hona!": {
+        "artist": "Poppin'Party",
         "levels": {
             "easy": 9,
             "normal": 15,
-            "hard": 22,
+            "hard": 23,
             "expert": 27,
             "special": 0
         },
         "noteCount": {
-            "easy": 148,
-            "normal": 272,
-            "hard": 496,
-            "expert": 857,
+            "easy": 154,
+            "normal": 282,
+            "hard": 548,
+            "expert": 909,
             "special": 0
         },
-        "bpm": 195.0,
-        "time": 103500
+        "bpm": 186.0,
+        "time": 105200
     },
     "Keep the Heat and Fire Yourself Up": {
         "artist": "RAISE A SUILEN",
@@ -7370,6 +8035,25 @@
         },
         "bpm": 155.0,
         "time": 113900
+    },
+    "ZEAL of proud": {
+        "artist": "Roselia",
+        "levels": {
+            "easy": 9,
+            "normal": 15,
+            "hard": 22,
+            "expert": 27,
+            "special": 0
+        },
+        "noteCount": {
+            "easy": 148,
+            "normal": 272,
+            "hard": 496,
+            "expert": 857,
+            "special": 0
+        },
+        "bpm": 195.0,
+        "time": 103500
     },
     "Sweets BAN!": {
         "artist": "Poppin'Party",
@@ -7448,7 +8132,7 @@
         "time": 106600
     },
     "Pappare☆Life! Bang! Banzai!": {
-        "artist": "Pastel*Palettes",
+        "artist": "Pastel＊Palettes",
         "levels": {
             "easy": 9,
             "normal": 14,
@@ -7485,27 +8169,8 @@
         "bpm": 185.0,
         "time": 98700
     },
-    "Harmony Day": {
-        "artist": "Morfonica",
-        "levels": {
-            "easy": 9,
-            "normal": 14,
-            "hard": 21,
-            "expert": 25,
-            "special": 0
-        },
-        "noteCount": {
-            "easy": 117,
-            "normal": 219,
-            "hard": 413,
-            "expert": 592,
-            "special": 0
-        },
-        "bpm": 182.0,
-        "time": 97700
-    },
     "Boppin'♪ Identity!": {
-        "artist": "Pastel*Palettes",
+        "artist": "Pastel＊Palettes",
         "levels": {
             "easy": 9,
             "normal": 14,
@@ -7541,6 +8206,25 @@
         },
         "bpm": 134.0,
         "time": 103100
+    },
+    "Harmony Day": {
+        "artist": "Morfonica",
+        "levels": {
+            "easy": 9,
+            "normal": 14,
+            "hard": 21,
+            "expert": 25,
+            "special": 0
+        },
+        "noteCount": {
+            "easy": 117,
+            "normal": 219,
+            "hard": 413,
+            "expert": 592,
+            "special": 0
+        },
+        "bpm": 182.0,
+        "time": 97700
     },
     "I need you!": {
         "artist": "Hello, Happy World!",
@@ -7580,24 +8264,24 @@
         "bpm": 180.0,
         "time": 110100
     },
-    "SENSENFUKOKU": {
-        "artist": "Afterglow",
+    "Shanghai Honey": {
+        "artist": "Hello, Happy World!",
         "levels": {
             "easy": 9,
-            "normal": 15,
-            "hard": 21,
-            "expert": 28,
-            "special": 30
+            "normal": 13,
+            "hard": 20,
+            "expert": 26,
+            "special": 0
         },
         "noteCount": {
-            "easy": 152,
-            "normal": 256,
-            "hard": 477,
-            "expert": 851,
-            "special": 972
+            "easy": 183,
+            "normal": 254,
+            "hard": 442,
+            "expert": 737,
+            "special": 0
         },
-        "bpm": 200.0,
-        "time": 102700
+        "bpm": 130.0,
+        "time": 104400
     },
     "Taiga yo Tomo ni Naite Kure": {
         "artist": "Poppin'Party",
@@ -7618,6 +8302,25 @@
         "bpm": 174.0,
         "time": 93200
     },
+    "SENSENFUKOKU": {
+        "artist": "Afterglow",
+        "levels": {
+            "easy": 9,
+            "normal": 15,
+            "hard": 21,
+            "expert": 28,
+            "special": 30
+        },
+        "noteCount": {
+            "easy": 152,
+            "normal": 256,
+            "hard": 477,
+            "expert": 851,
+            "special": 972
+        },
+        "bpm": 200.0,
+        "time": 102700
+    },
     "mind of Prominence": {
         "artist": "RAISE A SUILEN",
         "levels": {
@@ -7637,24 +8340,24 @@
         "bpm": 188.0,
         "time": 101600
     },
-    "Shanghai Honey": {
-        "artist": "Hello, Happy World!",
+    "Kyouen Red×Violet": {
+        "artist": "Roselia × Afterglow",
         "levels": {
             "easy": 9,
-            "normal": 13,
-            "hard": 20,
-            "expert": 26,
+            "normal": 15,
+            "hard": 23,
+            "expert": 28,
             "special": 0
         },
         "noteCount": {
-            "easy": 183,
-            "normal": 254,
-            "hard": 442,
-            "expert": 737,
+            "easy": 199,
+            "normal": 316,
+            "hard": 527,
+            "expert": 1002,
             "special": 0
         },
-        "bpm": 130.0,
-        "time": 104400
+        "bpm": 148.0,
+        "time": 111200
     },
     "Punchline Halloween!!!": {
         "artist": "Afterglow",
@@ -7674,25 +8377,6 @@
         },
         "bpm": 180.0,
         "time": 105400
-    },
-    "Kyouen Red×Violet": {
-        "artist": "Roselia × Afterglow",
-        "levels": {
-            "easy": 9,
-            "normal": 15,
-            "hard": 23,
-            "expert": 28,
-            "special": 0
-        },
-        "noteCount": {
-            "easy": 199,
-            "normal": 316,
-            "hard": 527,
-            "expert": 1002,
-            "special": 0
-        },
-        "bpm": 148.0,
-        "time": 111200
     },
     "Double Rainbow": {
         "artist": "Poppin'Party",
@@ -7751,25 +8435,6 @@
         "bpm": 145.0,
         "time": 103500
     },
-    "I love your way!": {
-        "artist": "Afterglow",
-        "levels": {
-            "easy": 9,
-            "normal": 14,
-            "hard": 23,
-            "expert": 26,
-            "special": 0
-        },
-        "noteCount": {
-            "easy": 164,
-            "normal": 263,
-            "hard": 564,
-            "expert": 806,
-            "special": 0
-        },
-        "bpm": 130.0,
-        "time": 99800
-    },
     "ON YOUR MARK": {
         "artist": "Afterglow",
         "levels": {
@@ -7788,6 +8453,25 @@
         },
         "bpm": 185.0,
         "time": 104800
+    },
+    "I love your way!": {
+        "artist": "Afterglow",
+        "levels": {
+            "easy": 9,
+            "normal": 14,
+            "hard": 23,
+            "expert": 26,
+            "special": 0
+        },
+        "noteCount": {
+            "easy": 164,
+            "normal": 263,
+            "hard": 564,
+            "expert": 806,
+            "special": 0
+        },
+        "bpm": 130.0,
+        "time": 99800
     },
     "GO! GO! MANIAC": {
         "artist": "Hello, Happy World!",
@@ -7999,7 +8683,7 @@
         "time": 110000
     },
     "DISCOTHEQUE": {
-        "artist": "Pastel*Palettes",
+        "artist": "Pastel＊Palettes",
         "levels": {
             "easy": 9,
             "normal": 14,
@@ -8075,7 +8759,7 @@
         "time": 99200
     },
     "Adabana Necromancy": {
-        "artist": "Pastel*Palettes",
+        "artist": "Pastel＊Palettes",
         "levels": {
             "easy": 9,
             "normal": 14,
@@ -8132,7 +8816,7 @@
         "time": 98500
     },
     "Hanamaru Pippi wa Yoiko Dake": {
-        "artist": "Pastel*Palettes",
+        "artist": "Pastel＊Palettes",
         "levels": {
             "easy": 9,
             "normal": 14,
@@ -8284,7 +8968,7 @@
         "time": 97300
     },
     "Kyu~Mai*Flower": {
-        "artist": "Pastel*Palettes",
+        "artist": "Pastel＊Palettes",
         "levels": {
             "easy": 9,
             "normal": 14,
@@ -8358,6 +9042,25 @@
         },
         "bpm": 193.0,
         "time": 98700
+    },
+    "Petrichor Ovation": {
+        "artist": "Afterglow",
+        "levels": {
+            "easy": 9,
+            "normal": 15,
+            "hard": 21,
+            "expert": 26,
+            "special": 0
+        },
+        "noteCount": {
+            "easy": 157,
+            "normal": 283,
+            "hard": 481,
+            "expert": 764,
+            "special": 0
+        },
+        "bpm": 185.0,
+        "time": 100600
     },
     "KIZUNA MUSIC♪": {
         "artist": "Poppin'Party",
@@ -8474,7 +9177,7 @@
         "time": 315000
     },
     "[FULL] Kyu~Mai*Flower": {
-        "artist": "Pastel*Palettes",
+        "artist": "Pastel＊Palettes",
         "levels": {
             "easy": 10,
             "normal": 15,
@@ -8549,25 +9252,6 @@
         "bpm": 181.0,
         "time": 124700
     },
-    "Passionate Starmine": {
-        "artist": "Roselia",
-        "levels": {
-            "easy": 10,
-            "normal": 14,
-            "hard": 22,
-            "expert": 26,
-            "special": 0
-        },
-        "noteCount": {
-            "easy": 157,
-            "normal": 262,
-            "hard": 529,
-            "expert": 691,
-            "special": 0
-        },
-        "bpm": 187.0,
-        "time": 118800
-    },
     "Just Awake": {
         "artist": "RAISE A SUILEN",
         "levels": {
@@ -8587,8 +9271,27 @@
         "bpm": 191.0,
         "time": 120700
     },
+    "Passionate Starmine": {
+        "artist": "Roselia",
+        "levels": {
+            "easy": 10,
+            "normal": 14,
+            "hard": 22,
+            "expert": 26,
+            "special": 0
+        },
+        "noteCount": {
+            "easy": 157,
+            "normal": 262,
+            "hard": 529,
+            "expert": 691,
+            "special": 0
+        },
+        "bpm": 187.0,
+        "time": 118800
+    },
     "Himitsuno Tobirakara Aini Kite": {
-        "artist": "Pastel*Palettes",
+        "artist": "Pastel＊Palettes",
         "levels": {
             "easy": 10,
             "normal": 14,
@@ -8758,7 +9461,7 @@
         "bpm": 150.0,
         "time": 108900
     },
-    "キミを れっつ・はぶ・ふぁん♪": {
+    "Kimi wo Let's Have Fun♪": {
         "artist": "Hello, Happy World!",
         "levels": {
             "easy": 10,
@@ -8778,7 +9481,7 @@
         "time": 105600
     },
     "Wonderful Sweet!": {
-        "artist": "Pastel*Palettes",
+        "artist": "Pastel＊Palettes",
         "levels": {
             "easy": 10,
             "normal": 14,
@@ -8816,7 +9519,7 @@
         "time": 101300
     },
     "SURVIVOR Never Give Up!": {
-        "artist": "Pastel*Palettes",
+        "artist": "Pastel＊Palettes",
         "levels": {
             "easy": 10,
             "normal": 15,
@@ -8873,7 +9576,7 @@
         "time": 106000
     },
     "Zettai Sengen ~Recital~": {
-        "artist": "Pastel*Palettes",
+        "artist": "Pastel＊Palettes",
         "levels": {
             "easy": 10,
             "normal": 14,
@@ -9138,6 +9841,25 @@
         "bpm": 195.0,
         "time": 93500
     },
+    "Sansan": {
+        "artist": "Afterglow",
+        "levels": {
+            "easy": 11,
+            "normal": 16,
+            "hard": 24,
+            "expert": 28,
+            "special": 0
+        },
+        "noteCount": {
+            "easy": 255,
+            "normal": 465,
+            "hard": 695,
+            "expert": 1091,
+            "special": 0
+        },
+        "bpm": 196.0,
+        "time": 125600
+    },
     "DRIVE US CRAZY": {
         "artist": "RAISE A SUILEN",
         "levels": {
@@ -9176,25 +9898,6 @@
         "bpm": 160.0,
         "time": 137700
     },
-    "This game": {
-        "artist": "Roselia",
-        "levels": {
-            "easy": 11,
-            "normal": 15,
-            "hard": 23,
-            "expert": 27,
-            "special": 26
-        },
-        "noteCount": {
-            "easy": 216,
-            "normal": 370,
-            "hard": 634,
-            "expert": 907,
-            "special": 826
-        },
-        "bpm": 147.0,
-        "time": 122500
-    },
     "Bad Apple!! feat. nomico": {
         "artist": "Roselia",
         "levels": {
@@ -9213,6 +9916,25 @@
         },
         "bpm": 138.0,
         "time": 118300
+    },
+    "This game": {
+        "artist": "Roselia",
+        "levels": {
+            "easy": 11,
+            "normal": 15,
+            "hard": 23,
+            "expert": 27,
+            "special": 26
+        },
+        "noteCount": {
+            "easy": 216,
+            "normal": 370,
+            "hard": 634,
+            "expert": 907,
+            "special": 826
+        },
+        "bpm": 147.0,
+        "time": 122500
     },
     "GO!!!": {
         "artist": "Afterglow × Kokoro",
@@ -9253,7 +9975,7 @@
         "time": 94400
     },
     "DAYS of Embrace♪": {
-        "artist": "Pastel*Palettes",
+        "artist": "Pastel＊Palettes",
         "levels": {
             "easy": 11,
             "normal": 15,
@@ -9468,14 +10190,14 @@
             "normal": 16,
             "hard": 25,
             "expert": 29,
-            "special": 0
+            "special": 28
         },
         "noteCount": {
             "easy": 280,
             "normal": 442,
             "hard": 634,
             "expert": 1094,
-            "special": 0
+            "special": 1148
         },
         "bpm": 195.0,
         "time": 121300
