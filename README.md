@@ -15,10 +15,11 @@ Tool for scanning and analyzing screenshots of the game's live results screen. F
 ## Installation
 1. Download the latest release from the [releases page](https://github.com/MikeAtom/BangStats/releases)
 2. Extract the archive to a folder of your choice
-3. Install the dependencies by running `pip install -r requirements.txt` in the folder you extracted the archive to
-4. Run the program by running `main.pyw` in the folder you extracted the archive to
+3. Install the pytorch with CUDA support. See [here](https://pytorch.org/get-started/locally/) for instructions.
+4. Install the dependencies by running `pip install -r requirements.txt` in the folder you extracted the archive to
+5. Run the program by running `main.pyw` in the folder you extracted the archive to
 
-Side note: If you intend to use GPU acceleration, you will need to have an NVIDIA GPU and install the pytorch with CUDA support. See [here](https://pytorch.org/get-started/locally/) for instructions.
+Side note: If you intend to use GPU acceleration, you will need to have an NVIDIA GPU and install the pytorch with CUDA support. Once again, see [here](https://pytorch.org/get-started/locally/) for instructions.
 
 ## Usage
 First of all, the program cannot get data out of thin air. You will need to provide it with screenshots of the in-game live results screen. The more screenshots you provide, the more accurate the statistics will be.
@@ -37,9 +38,10 @@ First of all, the program cannot get data out of thin air. You will need to prov
 - Tested only on Windows, cannot guarantee that it will work on other platforms
 - Also tested only on Android screenshots, cannot guarantee that it will work on iOS ones
 - The program is made with Endori in mind, so it may not work correctly with screenshots from other servers
+- "Sʼil Vous President" has Cover and Extra versions with the same name, so it will sometimes appear as Note Missmatch
 
 ## Custom localizations
-The program supports custom localizations. To create one, you will need to create a new file in the `data/lang` folder and name it according to the language you want to translate the program to. For example, if you're going to translate the program to German, you will need to create a file named `de.json`. The file must be in JSON format. Use provided localizations as a reference.
+The program supports custom localizations. To create one, you will need to create a new file in the `data/lang` folder and name it according to the language you want to translate the program to. For example, if you're going to translate the program to German, you will need to create a file named `de.json`. The file must be in JSON format. Use the provided localizations as a reference.
 
 ## Feedback
 If you have any questions, suggestions, or bug reports, feel free to contact me [anywhere](https://linktr.ee/MikeAtom) 
