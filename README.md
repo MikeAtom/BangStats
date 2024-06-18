@@ -4,7 +4,7 @@
 
 Tool for scanning and analyzing screenshots of the game's live results screen. Functionality would be welcome in the base game, but here we are.
 
-![image](https://cdn.discordapp.com/attachments/882697945772855337/1132066295270080623/image.png)
+![image](https://i.imgur.com/7qX5Rmi.png)
 
 ## Features
 - [x] Scan screenshots of the live results screen and extract the results
